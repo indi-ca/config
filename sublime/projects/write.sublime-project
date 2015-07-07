@@ -1,0 +1,16 @@
+{
+	"folders":
+	[
+		{
+			"path": "box/docs"
+		},
+        {
+            "path": "/Users/indika/Dropbox/code_library"
+        },
+        {
+            "path": "/Users/indika/.oh-my-zsh",
+            "folder_exclude_patterns": ["cache", "custom", "lib", "log", "plugins", "templates", "themes", "tools"],
+            "file_exclude_patterns": ["MIT_LICENSE.txt"]
+        },
+	]
+}
