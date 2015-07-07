@@ -1,0 +1,414 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "boxen.sublime-project",
+			"settings":
+			{
+				"buffer_size": 163,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "write.sublime-project",
+			"settings":
+			{
+				"buffer_size": 492,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 267.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"new",
+				"File: New File Relative to Current View"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/opt/boxen/repo"
+	],
+	"file_history":
+	[
+		"/Users/indika/dev/config/sublime/projects/write.sublime-workspace",
+		"/Users/indika/dev/write.sublime-project",
+		"/Users/indika/dev/box/docs/box.netcon.txt",
+		"/Users/indika/dev/box/docs/box.lego.bash_rc.txt",
+		"/Users/indika/.oh-my-zsh/architectures/osx-cobalt.sh",
+		"/Users/indika/dev/box/docs/box.all.txt",
+		"/Users/indika/Dropbox/code_library/Linux/linux.permissions.txt",
+		"/Users/indika/Dropbox/code_library/Python/setup/python.pip.txt",
+		"/Users/indika/Dropbox/code_library/Tools/tools.boxen.cheatsheet.txt",
+		"/Users/indika/Dropbox/code_library/Python/python.structures.collections_and_dictionary.txt",
+		"/Users/indika/dev/box/docs/box.questions.txt",
+		"/Users/indika/dev/box/docs/box.databases.txt",
+		"/Users/indika/.hgrc",
+		"/Users/indika/Dropbox/code_library/Python/python.environment.spawn.txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"motor",
+			"blue",
+			"DHCP",
+			"blue",
+			"coppehead"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "boxen.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 163,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								154,
+								154
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "write.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 492,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								492
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "boxen.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"hgall",
+				"code_library/VersionControl/Mercurial/hg.all.txt"
+			],
+			[
+				"boxnetcon",
+				"docs/box.netcon.txt"
+			],
+			[
+				"brewtxt",
+				"code_library/OSX/osx.brew.txt"
+			],
+			[
+				"boxench",
+				"code_library/Tools/tools.boxen.cheatsheet.txt"
+			],
+			[
+				"osx",
+				".oh-my-zsh/architectures/osx-cobalt.sh"
+			],
+			[
+				"legobash",
+				"docs/box.lego.bash_rc.txt"
+			],
+			[
+				"osxc",
+				".oh-my-zsh/architectures/osx-cobalt.sh"
+			],
+			[
+				"syste",
+				"code_library/Linux/linux.systemd.txt"
+			],
+			[
+				"box",
+				"docs/box.netcon.txt"
+			],
+			[
+				"systemd",
+				"code_library/Linux/linux.systemd.txt"
+			],
+			[
+				"osxco",
+				".oh-my-zsh/architectures/osx-cobalt.sh"
+			],
+			[
+				"boxall",
+				"docs/box.all.txt"
+			],
+			[
+				"boxa",
+				"docs/box.all.txt"
+			],
+			[
+				"pythondict",
+				"code_library/Python/python.structures.collections_and_dictionary.txt"
+			],
+			[
+				"boxquest",
+				"docs/box.questions.txt"
+			],
+			[
+				"pythonpip",
+				"code_library/Python/setup/python.pip.txt"
+			],
+			[
+				"linuxper",
+				"code_library/Linux/linux.permissions.txt"
+			],
+			[
+				"osxcob",
+				".oh-my-zsh/architectures/osx-cobalt.sh"
+			],
+			[
+				"pythondictio",
+				"code_library/Python/python.structures.collections_and_dictionary.txt"
+			],
+			[
+				"piptxt",
+				"code_library/Python/setup/python.pip.txt"
+			],
+			[
+				"boxal",
+				"docs/box.all.txt"
+			],
+			[
+				"cobaltsh",
+				".oh-my-zsh/architectures/osx-cobalt.sh"
+			],
+			[
+				"boxdataba",
+				"docs/box.databases.txt"
+			],
+			[
+				"pythonspawn",
+				"code_library/Python/python.environment.spawn.txt"
+			],
+			[
+				"boxentxt",
+				"code_library/Tools/tools.boxen.netbox.txt"
+			],
+			[
+				"boxenche",
+				"code_library/Tools/tools.boxen.cheatsheet.txt"
+			],
+			[
+				"frict",
+				"code_library/Environment/Frictionless/frictionless.osx.ukelele.txt"
+			],
+			[
+				"boxencheat",
+				"code_library/Tools/tools.boxen.cheatsheet.txt"
+			],
+			[
+				"friction",
+				"code_library/Environment/Frictionless/frictionless.osx.ukelele.txt"
+			],
+			[
+				"fric",
+				"code_library/Environment/Frictionless/frictionless.all.txt"
+			],
+			[
+				"boxen.txt",
+				"code_library/Tools/tools.boxen.txt"
+			],
+			[
+				"osxgen",
+				"code_library/OSX/osx.general.txt"
+			],
+			[
+				"site",
+				"manifests/site.pp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/dev/config/sublime/projects/boxen.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 327.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

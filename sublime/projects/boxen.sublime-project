@@ -1,0 +1,10 @@
+{
+    "folders":
+    [
+        {
+            "path": "/opt/boxen/repo",
+            "file_exclude_patterns": [],
+            "name": "My Boxen"
+        },
+    ]
+}

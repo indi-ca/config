@@ -7,22 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "box/docs/box.netcon.txt",
-			"settings":
-			{
-				"buffer_size": 20381,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "box/docs/box.all.txt",
-			"settings":
-			{
-				"buffer_size": 23207,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -63,6 +47,8 @@
 	],
 	"file_history":
 	[
+		"/Users/indika/dev/config/sublime/projects/box/docs/box.netcon.txt",
+		"/Users/indika/dev/config/sublime/projects/box/docs/box.all.txt"
 	],
 	"find":
 	{
@@ -98,69 +84,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "box/docs/box.netcon.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 20381,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "box/docs/box.all.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 23207,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4338,
-								4338
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 3159.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -265,12 +190,12 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"last_filter": "",
 		"selected_items":
 		[
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"select_symbol":
 	{
