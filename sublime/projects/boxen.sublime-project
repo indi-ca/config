@@ -6,5 +6,10 @@
             "file_exclude_patterns": [],
             "name": "My Boxen"
         },
+        {
+            "path": "/Users/indika/dev/boxen-learn/felho-boxen",
+            "file_exclude_patterns": [],
+            "name": "Felho's Boxen"
+        },
     ]
 }
