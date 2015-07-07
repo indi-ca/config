@@ -2,13 +2,16 @@
 	"folders":
 	[
 		{
-			"path": "box/docs"
+			"path": "~/dev/box/docs",
+            "file_exclude_patterns": ["*.graffle"],
+            "name": "Box Docs"
 		},
         {
-            "path": "/Users/indika/Dropbox/code_library"
+            "path": "~/Dropbox/code_library",
+            "file_exclude_patterns": ["*.graffle"]
         },
         {
-            "path": "/Users/indika/.oh-my-zsh",
+            "path": "~/.oh-my-zsh",
             "folder_exclude_patterns": ["cache", "custom", "lib", "log", "plugins", "templates", "themes", "tools"],
             "file_exclude_patterns": ["MIT_LICENSE.txt"]
         },
