@@ -1,10 +1,14 @@
 {
 	"folders":
 	[
-		{
-			"path": "~/dev/box/docs",
+        {
+            "path": "~/dev/box/docs",
             "file_exclude_patterns": ["*.graffle"],
             "name": "Box Docs"
+        },
+		{
+			"path": "~/dev/box/sandbox",
+            "name": "Sandbox"
 		},
         {
             "path": "~/Dropbox/code_library",
