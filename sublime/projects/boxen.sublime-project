@@ -7,9 +7,19 @@
             "name": "My Boxen"
         },
         {
-            "path": "/Users/indika/dev/boxen-learn/felho-boxen",
+            "path": "/Users/indika/dev/osx-boxen/felho-boxen",
             "file_exclude_patterns": [],
             "name": "Felho's Boxen"
+        },
+        {
+            "path": "/Users/indika/dev/config",
+            "file_exclude_patterns": [],
+            "name": "Config"
+        },
+        {
+            "path": "/Users/indika/dev/osx-boxen/puppet-virtualenv",
+            "file_exclude_patterns": [],
+            "name": "puppet-virtualenv"
         },
     ]
 }

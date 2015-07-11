@@ -7,7 +7,7 @@
             "name": "Prezto"
         },
         {
-            "path": "/Users/indika/dev/.oh-my-zsh",
+            "path": "/Users/indika/dev/oh-my-zsh",
             "file_exclude_patterns": [],
             "name": "oh-my-zsh"
         },
