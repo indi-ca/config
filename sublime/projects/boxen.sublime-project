@@ -21,5 +21,10 @@
             "file_exclude_patterns": [],
             "name": "puppet-virtualenv"
         },
+        {
+            "path": "/Users/indika/dev/osx-boxen/mackup",
+            "file_exclude_patterns": [],
+            "name": "mackup"
+        },
     ]
 }
