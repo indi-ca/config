@@ -15,9 +15,13 @@
             "file_exclude_patterns": ["*.graffle"]
         },
         {
-            "path": "~/.oh-my-zsh",
-            "folder_exclude_patterns": ["cache", "custom", "lib", "log", "plugins", "templates", "themes", "tools"],
-            "file_exclude_patterns": ["MIT_LICENSE.txt"]
+            "path": "/Users/indika/.zprezto/architectures",
+            "name": "ZSHArch"
         },
+        // {
+        //     "path": "~/.oh-my-zsh",
+        //     "folder_exclude_patterns": ["cache", "custom", "lib", "log", "plugins", "templates", "themes", "tools"],
+        //     "file_exclude_patterns": ["MIT_LICENSE.txt"]
+        // },
 	]
 }
