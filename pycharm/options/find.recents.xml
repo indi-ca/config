@@ -1,0 +1,40 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>default_route4</find>
+      <find>module</find>
+      <find>int(</find>
+      <find>-</find>
+      <find>obj.parent.</find>
+      <find>get_uid</find>
+      <find>add_link</find>
+      <find>obj.parent</find>
+      <find>lync</find>
+      <find>remove</find>
+      <find>remove_child</find>
+      <find>list</find>
+      <find>setparent</find>
+      <find>pobjlist_property</find>
+      <find>load_comple</find>
+      <find>TODO</find>
+      <find>_hivemap_to_list</find>
+      <find>natural</find>
+      <find>des</find>
+      <find>destroy_configuration</find>
+      <find>userlog.info(config.default_route6started</find>
+      <find>started</find>
+      <find>delete_lin</find>
+      <find>delete_links</find>
+      <find>delete</find>
+      <find>751</find>
+      <find>oid</find>
+      <find>import ut</find>
+      <find>unrtffil</find>
+      <find>link.name</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>userlog</replace>
+      <replace>755</replace>
+    </replaceStrings>
+  </component>
+</application>

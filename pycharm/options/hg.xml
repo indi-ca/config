@@ -1,0 +1,5 @@
+<application>
+  <component name="HgGlobalSettings">
+    <option name="myHgExecutable" value="/opt/python/netbox/bin/hg" />
+  </component>
+</application>

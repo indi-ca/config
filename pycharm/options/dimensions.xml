@@ -1,0 +1,37 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="960" y="230" />
+    <location key="SettingsEditor.0.0.1920.1080" x="441" y="173" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="678" y="338" />
+    <location key="com.intellij.ide.util.TipDialog.1920.0.1920.1200" x="2598" y="338" />
+    <location key="WELCOME_SCREEN.1920.0.1920.1200" x="2880" y="230" />
+    <location key="FileChooserDialogImpl.1920.0.1920.1200" x="2206" y="358" />
+    <location key="SettingsEditor.1920.0.1920.1200" x="1920" y="273" />
+    <location key="WELCOME_SCREEN.0.0.1920.1200" x="3069" y="230" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.1920.0.1920.1200" x="2618" y="364" />
+    <location key="com.intellij.ide.util.TipDialog.1920.0.1920.1080" x="2598" y="338" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.1920.0.1920.1200" x="1920" y="23" />
+    <location key="RollbackChangesDialog.1920.0.1920.1200" x="2345" y="345" />
+    <location key="VCS.FileHistoryDialog.1920.0.1920.1200" x="2048" y="95" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1200" x="358" y="236" />
+    <location key="CommitChangelistDialog2.1920.0.1920.1200" x="2190" y="198" />
+    <location key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.1920.0.1920.1200" x="2020" y="123" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.1920.0.1920.1200" x="2217" y="416" />
+    <location key="refactoring.ChangeSignatureDialog.1920.0.1920.1200" x="2316" y="248" />
+    <location key="WELCOME_SCREEN.1920.0.1920.1080" x="2880" y="528" />
+    <location key="com.intellij.history.integration.ui.views.SelectionHistoryDialog.1920.0.1920.1200" x="2020" y="123" />
+    <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.1920.0.1920.1200" width="1920" height="1177" />
+    <size key="VCS.FileHistoryDialog.1920.0.1920.1200" width="1038" height="1032" />
+    <size key="CommitChangelistDialog2.1920.0.1920.1200" width="691" height="894" />
+    <size key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.1920.0.1920.1200" width="1020" height="976" />
+    <size key="com.intellij.history.integration.ui.views.SelectionHistoryDialog.1920.0.1920.1200" width="1720" height="977" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="0" />
+    <extendedState key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" state="0" />
+    <extendedState key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" state="300" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.1" state="500" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.0" state="300" />
+    <extendedState key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" state="0" />
+    <extendedState key="com.intellij.history.integration.ui.views.SelectionHistoryDialog.1" state="500" />
+    <extendedState key="com.intellij.history.integration.ui.views.SelectionHistoryDialog.0" state="300" />
+  </component>
+</application>

@@ -1,0 +1,53 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="JavaScript versions">
+      <project id="safechat_default" values="DEFAULT" collectionTime="1436836902503" />
+      <project id="internal" values="DEFAULT" collectionTime="1436140606110" />
+      <project id="winrip" values="DEFAULT" collectionTime="1436836916135" />
+      <project id="netbox" values="DEFAULT" collectionTime="1436915071941" />
+    </group>
+    <group name="module type">
+      <project id="safechat_default" values="PYTHON_MODULE" collectionTime="1436836902464" />
+      <project id="internal" values="PYTHON_MODULE" collectionTime="1436140605866" />
+      <project id="winrip" values="PYTHON_MODULE" collectionTime="1436836916117" />
+      <project id="netbox" values="PYTHON_MODULE" collectionTime="1436915071537" />
+    </group>
+    <group name="vcs">
+      <project id="safechat_default" values="Git,hg4idea" collectionTime="1436836902464" />
+      <project id="internal" values="hg4idea" collectionTime="1436140605865" />
+      <project id="netbox" values="hg4idea" collectionTime="1436915071528" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="safechat_default" values="PythonConfigurationType" collectionTime="1436836902464" />
+    </group>
+    <group name="file-type">
+      <project id="safechat_default" values="JSON,XML,HTML,Images,Jinja2,UNKNOWN,Python,PATCH,Native,PLAIN_TEXT" collectionTime="1436836902490" />
+      <project id="internal" values="ARCHIVE,Jinja2,PLAIN_TEXT,SQL,Python,Native,XML,JSON,Ini,Images,CSS,Perl,C++,UNKNOWN,HTML,PATCH,JavaScript,YAML" collectionTime="1436140605891" />
+      <project id="winrip" values="XML,PLAIN_TEXT,UNKNOWN,Python" collectionTime="1436836916133" />
+      <project id="netbox" values="Python,UNKNOWN,PLAIN_TEXT,HTML,CSS,JSON,JavaScript,XML,Jinja2" collectionTime="1436915071768" />
+    </group>
+    <group name="py-interpreter">
+      <project id="internal" values="Python 2.7.6" collectionTime="1436140605903" />
+      <project id="winrip" values="Python 2.7.6" collectionTime="1436836916133" />
+      <project id="netbox" values="Python 2.7.6,Python 2.7.6" collectionTime="1436915071840" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="safechat_default" values="Project,Project" collectionTime="1436836902503" />
+      <project id="internal" values="Project,Project" collectionTime="1436140606110" />
+      <project id="winrip" values="Project,Project" collectionTime="1436836916135" />
+      <project id="netbox" values="Project,Project" collectionTime="1436915071941" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="2" />
+      <entry feature="ide.settings.Code_Style" count="2" />
+      <entry feature="ide.settings.Keymap" count="3" />
+      <entry feature="ide.settings.Mercurial" count="1" />
+      <entry feature="ide.settings.Project_Structure" count="6" />
+      <entry feature="idea.caches.invalidated" count="1" />
+      <entry feature="ideaapp.started" count="16" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="4" />
+    </counts>
+  </component>
+</application>
