@@ -1,9 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>default_route4</find>
-      <find>module</find>
-      <find>int(</find>
       <find>-</find>
       <find>obj.parent.</find>
       <find>get_uid</find>
@@ -29,12 +26,16 @@
       <find>751</find>
       <find>oid</find>
       <find>import ut</find>
-      <find>unrtffil</find>
       <find>link.name</find>
+      <find>unrtffil</find>
+      <find>load_config</find>
+      <find>migrate_no</find>
+      <find>WinRIPVersioningAssistant</find>
     </findStrings>
     <replaceStrings>
       <replace>userlog</replace>
       <replace>755</replace>
+      <replace>NetconVersioningAssistant</replace>
     </replaceStrings>
   </component>
 </application>

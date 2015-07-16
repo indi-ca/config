@@ -2,18 +2,25 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="$USER_HOME$/dev/box/safechat" />
         <option value="$USER_HOME$/dev/box/netbox" />
+        <option value="$USER_HOME$/dev/box/safechat" />
         <option value="$USER_HOME$/dev/box/netbox/winrip" />
         <option value="$USER_HOME$/dev/box/safechat_default" />
         <option value="$USER_HOME$/dev/box/internal" />
       </list>
     </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/dev/box/netbox" />
+      </list>
+    </option>
     <option name="names">
       <map>
+        <entry key="$USER_HOME$/dev/box/netbox" value="netbox, sandbox" />
+        <entry key="$USER_HOME$/dev/box/safechat" value="safechat_default, src" />
         <entry key="$USER_HOME$/dev/box/safechat_default" value="safechat_default, src" />
       </map>
     </option>
-    <option name="lastPath" value="$USER_HOME$/dev/box/safechat" />
+    <option name="lastPath" value="$USER_HOME$/dev/box/netbox" />
   </component>
 </application>
