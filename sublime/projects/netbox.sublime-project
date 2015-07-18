@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+        {
+            "path": "~/dev/box/netbox",
+            "file_exclude_patterns": [],
+            "name": "Netbox"
+        },
+        {
+            "path": "~/dev/box/internal",
+            "file_exclude_patterns": [],
+            "name": "Internal"
+        },
+	]
+}

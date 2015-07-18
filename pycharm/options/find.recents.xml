@@ -1,8 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>-</find>
-      <find>obj.parent.</find>
       <find>get_uid</find>
       <find>add_link</find>
       <find>obj.parent</find>
@@ -31,6 +29,8 @@
       <find>load_config</find>
       <find>migrate_no</find>
       <find>WinRIPVersioningAssistant</find>
+      <find>custom_log</find>
+      <find>bool(nam</find>
     </findStrings>
     <replaceStrings>
       <replace>userlog</replace>

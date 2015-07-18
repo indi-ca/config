@@ -21,11 +21,16 @@
     <location key="WELCOME_SCREEN.1920.0.1920.1080" x="2880" y="528" />
     <location key="com.intellij.history.integration.ui.views.SelectionHistoryDialog.1920.0.1920.1200" x="2020" y="123" />
     <location key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog.1920.0.1920.1200" x="2342" y="514" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1280.800" x="358" y="210" />
+    <location key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0.0.1280.800" x="100" y="123" />
+    <location key="com.intellij.history.integration.ui.views.SelectionHistoryDialog.0.0.1280.800" x="100" y="123" />
     <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.1920.0.1920.1200" width="1920" height="1177" />
     <size key="VCS.FileHistoryDialog.1920.0.1920.1200" width="1038" height="1032" />
     <size key="CommitChangelistDialog2.1920.0.1920.1200" width="691" height="894" />
     <size key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.1920.0.1920.1200" width="1020" height="976" />
     <size key="com.intellij.history.integration.ui.views.SelectionHistoryDialog.1920.0.1920.1200" width="1720" height="977" />
+    <size key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0.0.1280.800" width="1078" height="573" />
+    <size key="com.intellij.history.integration.ui.views.SelectionHistoryDialog.0.0.1280.800" width="1078" height="573" />
     <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="0" />
     <extendedState key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" state="0" />
     <extendedState key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" state="300" />

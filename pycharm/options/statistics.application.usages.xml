@@ -4,38 +4,38 @@
       <project id="safechat_default" values="DEFAULT" collectionTime="1437006682159" />
       <project id="internal" values="DEFAULT" collectionTime="1436140606110" />
       <project id="winrip" values="DEFAULT" collectionTime="1436836916135" />
-      <project id="netbox" values="DEFAULT" collectionTime="1437036181676" />
+      <project id="netbox" values="DEFAULT" collectionTime="1437121035341" />
     </group>
     <group name="module type">
       <project id="safechat_default" values="PYTHON_MODULE" collectionTime="1437006682153" />
       <project id="internal" values="PYTHON_MODULE" collectionTime="1436140605866" />
       <project id="winrip" values="PYTHON_MODULE" collectionTime="1436836916117" />
-      <project id="netbox" values="PYTHON_MODULE" collectionTime="1437036181649" />
+      <project id="netbox" values="PYTHON_MODULE" collectionTime="1437121035180" />
     </group>
     <group name="vcs">
       <project id="safechat_default" values="hg4idea,Git" collectionTime="1437006682153" />
       <project id="internal" values="hg4idea" collectionTime="1436140605865" />
-      <project id="netbox" values="hg4idea" collectionTime="1437036181649" />
+      <project id="netbox" values="hg4idea" collectionTime="1437121035179" />
     </group>
     <group name="run-configuration-type">
       <project id="safechat_default" values="PythonConfigurationType" collectionTime="1437006682153" />
     </group>
     <group name="file-type">
-      <project id="safechat_default" values="Images,JSON,UNKNOWN,Native,Jinja2,Python,HTML,XML,PATCH,PLAIN_TEXT" collectionTime="1437006682158" />
-      <project id="internal" values="ARCHIVE,Jinja2,PLAIN_TEXT,SQL,Python,Native,XML,JSON,Ini,Images,CSS,Perl,C++,UNKNOWN,HTML,PATCH,JavaScript,YAML" collectionTime="1436140605891" />
-      <project id="winrip" values="XML,PLAIN_TEXT,UNKNOWN,Python" collectionTime="1436836916133" />
-      <project id="netbox" values="XML,HTML,UNKNOWN,PLAIN_TEXT,Jinja2,Python,CSS,JSON,JavaScript" collectionTime="1437036181673" />
+      <project id="safechat_default" values="HTML,JSON,Python,PLAIN_TEXT,PATCH,Native,Jinja2,UNKNOWN,Images,XML" collectionTime="1437006682158" />
+      <project id="internal" values="ARCHIVE,PATCH,Images,Ini,JavaScript,Perl,C++,PLAIN_TEXT,Native,UNKNOWN,HTML,YAML,CSS,XML,Python,Jinja2,SQL,JSON" collectionTime="1436140605891" />
+      <project id="winrip" values="Python,UNKNOWN,XML,PLAIN_TEXT" collectionTime="1436836916133" />
+      <project id="netbox" values="UNKNOWN,XML,Jinja2,HTML,PLAIN_TEXT,Python,CSS,JSON,JavaScript" collectionTime="1437121035193" />
     </group>
     <group name="py-interpreter">
       <project id="internal" values="Python 2.7.6" collectionTime="1436140605903" />
       <project id="winrip" values="Python 2.7.6" collectionTime="1436836916133" />
-      <project id="netbox" values="Python 2.7.6,Python 2.7.6" collectionTime="1437036181674" />
+      <project id="netbox" values="Python 2.7.6,Python 2.7.6" collectionTime="1437121035199" />
     </group>
     <group name="javaScript Scope Usages">
       <project id="safechat_default" values="Project,Project" collectionTime="1437006682159" />
       <project id="internal" values="Project,Project" collectionTime="1436140606110" />
       <project id="winrip" values="Project,Project" collectionTime="1436836916135" />
-      <project id="netbox" values="Project,Project" collectionTime="1437036181675" />
+      <project id="netbox" values="Project,Project" collectionTime="1437121035341" />
     </group>
   </component>
   <component name="UsageTrigger">
@@ -44,9 +44,9 @@
       <entry feature="ide.settings.Code_Style" count="2" />
       <entry feature="ide.settings.Keymap" count="3" />
       <entry feature="ide.settings.Mercurial" count="1" />
-      <entry feature="ide.settings.Project_Structure" count="7" />
+      <entry feature="ide.settings.Project_Structure" count="8" />
       <entry feature="idea.caches.invalidated" count="1" />
-      <entry feature="ideaapp.started" count="16" />
+      <entry feature="ideaapp.started" count="20" />
       <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="4" />
     </counts>
   </component>

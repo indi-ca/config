@@ -1,0 +1,10 @@
+{
+	"folders":
+	[
+        {
+            "path": "~/dev/config/pycharm/options",
+            "file_exclude_patterns": [],
+            "name": "Pycharm"
+        },
+	]
+}
