@@ -13,7 +13,7 @@
     <property name="PyCharm.initialConfigurationShown" value="true" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
-    <property name="lastTip" value="19" />
+    <property name="lastTip" value="21" />
     <property name="file.colors.enable.non.project" value="494539" />
     <property name="Non-Project Files" value="494539" />
     <property name="OpenOrAttachDialog.OpenMode" value="new" />
@@ -23,10 +23,12 @@
     <property name="null.splitter" value="0.3" />
     <property name="ShowDocumentationInToolWindow" value="true" />
     <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.5" />
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.60076046" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.5964392" />
     <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="true" />
     <property name="MoveFile.OpenInEditor" value="true" />
     <property name="Copy.OpenInEditor" value="true" />
     <property name="python.move.module.members.dialog.show.table" value="false" />
+    <property name="power.save.mode" value="false" />
+    <property name="settings.code.style.selected.tab.Python" value="Tabs and Indents" />
   </component>
 </application>

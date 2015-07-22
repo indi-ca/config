@@ -19,7 +19,6 @@
             <root type="simple" url="file:///Library/Python/2.7/site-packages" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
             <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/python_stubs/348993582" />
-            <root type="simple" url="file:///Library/Python/2.7/site-packages/pip-1.5.6-py2.7.egg" />
             <root type="simple" url="file://$USER_HOME$/dev/box/internal/nb-devtools/modules" />
           </root>
         </classPath>
