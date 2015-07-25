@@ -29,6 +29,7 @@
     <location key="SettingsEditor.1920.0.1920.1080" x="2361" y="213" />
     <location key="DiffContextDialog.1920.0.1920.1080" x="2020" y="123" />
     <location key="CommitChangelistDialog2.1920.0.1920.1080" x="2534" y="162" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1280.800" x="0" y="23" />
     <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.1920.0.1920.1200" width="1920" height="1177" />
     <size key="VCS.FileHistoryDialog.1920.0.1920.1200" width="1038" height="1032" />
     <size key="CommitChangelistDialog2.1920.0.1920.1200" width="691" height="894" />
@@ -43,7 +44,8 @@
     <size key="GridCell.Tab.0.bottom.1920.0.1920.1200" width="0" height="0" />
     <size key="DiffContextDialog.1920.0.1920.1080" width="1720" height="857" />
     <size key="CommitChangelistDialog2.1920.0.1920.1080" width="731" height="779" />
-    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="0" />
+    <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1280.800" width="1280" height="773" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="6" />
     <extendedState key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" state="0" />
     <extendedState key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" state="300" />
     <extendedState key="DiffContextDialog" state="0" />

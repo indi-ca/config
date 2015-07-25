@@ -17,9 +17,9 @@
             "name": "Config"
         },
         {
-            "path": "/Users/indika/dev/osx-boxen/puppet-virtualenv",
+            "path": "/Users/indika/dev/osx-boxen/puppet-modules",
             "file_exclude_patterns": [],
-            "name": "puppet-virtualenv"
+            "name": "Puppet Modules"
         },
         {
             "path": "/Users/indika/dev/osx-boxen/mackup",

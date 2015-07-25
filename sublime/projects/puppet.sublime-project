@@ -6,5 +6,15 @@
             "file_exclude_patterns": [],
             "name": "Puppet"
         },
+        {
+            "path": "/Users/indika/dev/osx-boxen/puppet-modules",
+            "file_exclude_patterns": [],
+            "name": "Puppet Modules"
+        },
+        {
+            "path": "/Users/indika/dev/osx-boxen/kitchen",
+            "file_exclude_patterns": [],
+            "name": "Kitchen"
+        },
     ]
 }

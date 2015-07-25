@@ -1,36 +1,36 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>predu</find>
-      <find>get_inte</find>
-      <find>configuration</find>
-      <find>SourceIPCRea</find>
-      <find>oid</find>
-      <find>path</find>
-      <find>DHCPGlob</find>
-      <find>hiveobject</find>
-      <find>migrate_ngfw_policies</find>
-      <find>policy</find>
-      <find>/netcon</find>
-      <find>load_confi</find>
-      <find>reset_config</find>
-      <find>HIVE_NET</find>
-      <find>netcon</find>
-      <find>HIVE_NETCON</find>
-      <find>non_obje</find>
-      <find>referenc</find>
-      <find>ref</find>
-      <find>q(</find>
-      <find>standard_ip</find>
-      <find>isactive</find>
-      <find>reference</find>
-      <find>etherlink(</find>
       <find>key</find>
       <find>networks</find>
       <find>append</find>
       <find>hivelist</find>
       <find>create_default_bridge</find>
+      <find>dhcp_enabled</find>
+      <find>dhcpse</find>
+      <find>pobjlist_property</find>
       <find>is_active</find>
+      <find>dhcp_options</find>
+      <find>ned</find>
+      <find>hivevalue</find>
+      <find>pppoe</find>
+      <find>utils</find>
+      <find>For value</find>
+      <find>link</find>
+      <find>q(res</find>
+      <find>_enabled</find>
+      <find>test_pairs4</find>
+      <find>test_pairs</find>
+      <find>import q</find>
+      <find>linkui</find>
+      <find>default_route4</find>
+      <find>all_links</find>
+      <find>is_configur</find>
+      <find>is_con</find>
+      <find>is_confi</find>
+      <find>is_conf</find>
+      <find>is_config</find>
+      <find>is_configured</find>
     </findStrings>
     <replaceStrings>
       <replace>userlog</replace>
