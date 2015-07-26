@@ -25,6 +25,9 @@
 
     { "keys": ["super+w"], "command": "close" },
 
+    // Haskell
+    { "keys": ["super+alt+b"], "command": "show_panel", "args": {"panel": "output.exec"} },
+
     // Vintage mode
     { "keys": ["i", "i"], "command": "exit_insert_mode",
         "context":

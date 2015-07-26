@@ -3,7 +3,6 @@
 	[
         {
             "path": "~/dev/box/docs",
-            "file_exclude_patterns": ["*.graffle"],
             "name": "Box Docs"
         },
 		{
@@ -12,11 +11,14 @@
 		},
         {
             "path": "~/Dropbox/code_library",
-            "file_exclude_patterns": ["*.graffle"]
         },
         {
             "path": "/Users/indika/.zprezto/architectures",
             "name": "ZSHArch"
+        },
+        {
+            "path": "/Users/indika/dev/hist",
+            "name": "Hist",
         },
         // {
         //     "path": "~/.oh-my-zsh",

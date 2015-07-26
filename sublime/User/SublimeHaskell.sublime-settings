@@ -17,7 +17,7 @@
 	"enable_auto_check": true,
 	"enable_auto_lint": true,
 	"enable_ghc_mod": true,
-	"enable_hdevtools": false,
+	"enable_hdevtools": true,
 	"enable_hdocs": false,
 	"enable_hsdev": false,
 	"ghc_opts":

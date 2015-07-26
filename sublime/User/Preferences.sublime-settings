@@ -10,6 +10,8 @@
 	"enable_tab_scrolling": false,
 	"enable_telemetry": "false",
 	"ensure_newline_at_eof_on_save": true,
+	"findreplace_small": true,
+	"file_exclude_patterns": ["*.graffle"],
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -17,14 +19,15 @@
 		".hg",
 		"CVS",
 		"node_modules",
-		".cabal-sandbox"
+		".cabal-sandbox",
+		"dist"
 	],
 	"font_face": "Inconsolata",
 	"font_options":
 	[
 		"no_round"
 	],
-	"font_size": 15,
+	"font_size": 14,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -43,9 +46,8 @@
 	"soda_folder_icons": true,
 	"spell_check": false,
 	"tab_size": 4,
-	"theme": "predawn.sublime-theme",
 	"tabs_small": true,
-	"findreplace_small": true,
+	"theme": "predawn.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,
