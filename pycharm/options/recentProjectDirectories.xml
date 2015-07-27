@@ -8,11 +8,6 @@
         <option value="$USER_HOME$/dev/box/internal" />
       </list>
     </option>
-    <option name="openPaths">
-      <list>
-        <option value="$USER_HOME$/dev/box/netbox" />
-      </list>
-    </option>
     <option name="names">
       <map>
         <entry key="$USER_HOME$/dev/box/safechat" value="safechat, src" />

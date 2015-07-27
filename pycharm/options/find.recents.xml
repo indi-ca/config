@@ -1,15 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>key</find>
-      <find>networks</find>
-      <find>append</find>
-      <find>hivelist</find>
-      <find>create_default_bridge</find>
-      <find>dhcp_enabled</find>
-      <find>dhcpse</find>
-      <find>pobjlist_property</find>
-      <find>is_active</find>
       <find>dhcp_options</find>
       <find>ned</find>
       <find>hivevalue</find>
@@ -31,6 +22,15 @@
       <find>is_conf</find>
       <find>is_config</find>
       <find>is_configured</find>
+      <find>TEST_DB_P</find>
+      <find>pre_f</find>
+      <find>device</find>
+      <find>nat_to</find>
+      <find>subnet</find>
+      <find>type</find>
+      <find>resent</find>
+      <find>ethmacmap</find>
+      <find>find_i</find>
     </findStrings>
     <replaceStrings>
       <replace>userlog</replace>
