@@ -1,36 +1,36 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>dhcp_options</find>
-      <find>ned</find>
-      <find>hivevalue</find>
-      <find>pppoe</find>
-      <find>utils</find>
-      <find>For value</find>
-      <find>link</find>
-      <find>q(res</find>
-      <find>_enabled</find>
-      <find>test_pairs4</find>
-      <find>test_pairs</find>
-      <find>import q</find>
-      <find>linkui</find>
-      <find>default_route4</find>
-      <find>all_links</find>
-      <find>is_configur</find>
-      <find>is_con</find>
-      <find>is_confi</find>
-      <find>is_conf</find>
-      <find>is_config</find>
-      <find>is_configured</find>
-      <find>TEST_DB_P</find>
-      <find>pre_f</find>
-      <find>device</find>
+      <find>DHCPGlo</find>
+      <find>config.dns_settings</find>
+      <find>dns_config</find>
+      <find>config.save()</find>
+      <find>dhcp</find>
+      <find>store.comm</find>
+      <find>save</find>
+      <find>return Etheri</find>
+      <find>EtherLinkRunner</find>
+      <find>makelinkrunn</find>
+      <find>routes_up</find>
+      <find>routes</find>
+      <find>makelin</find>
+      <find>int(row</find>
+      <find>get_by_oid</find>
+      <find>config</find>
+      <find>links</find>
+      <find>groupln</find>
+      <find>get_default_external_dns4</find>
+      <find>check_interface</find>
+      <find>get_all</find>
+      <find>ATZ</find>
       <find>nat_to</find>
-      <find>subnet</find>
-      <find>type</find>
-      <find>resent</find>
-      <find>ethmacmap</find>
-      <find>find_i</find>
+      <find>linkcont</find>
+      <find>is</find>
+      <find>enabled</find>
+      <find>setenabled</find>
+      <find>imei</find>
+      <find>DEFAULT</find>
+      <find>test_pairs4</find>
     </findStrings>
     <replaceStrings>
       <replace>userlog</replace>

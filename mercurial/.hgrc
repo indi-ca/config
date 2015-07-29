@@ -11,19 +11,20 @@ hg.nb = 03:e7:aa:18:a2:df:55:ed:48:a1:d9:bf:b3:bf:48:7b:22:5a:90:b6
 nb = ~/dev/box/internal/nb-devtools/modules/nbhg.py
 
 [extensions]
-transplant =
+# transplant =
 mercurial_keyring =
 fetch =
 color =
 graphlog =
 pager =
-bookmarks =
+# bookmarks =
 record =
 rebase =
 progress =
-mq =
+# mq =
 purge =
 shelve =
+strip =
 #hgcanttype =     #TODO: Consider installing this
 largefiles =
 crecord = /Users/indika/dev/tools/crecord/crecord
