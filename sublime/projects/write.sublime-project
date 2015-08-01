@@ -20,6 +20,10 @@
             "path": "/Volumes/Container/hist",
             "name": "Hist",
         },
+        {
+            "path": "/Users/indika/dev/box/sandbox",
+            "name": "Sandbox",
+        },
         // {
         //     "path": "~/.oh-my-zsh",
         //     "folder_exclude_patterns": ["cache", "custom", "lib", "log", "plugins", "templates", "themes", "tools"],

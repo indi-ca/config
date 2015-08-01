@@ -1,21 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>DHCPGlo</find>
-      <find>config.dns_settings</find>
-      <find>dns_config</find>
-      <find>config.save()</find>
-      <find>dhcp</find>
-      <find>store.comm</find>
-      <find>save</find>
-      <find>return Etheri</find>
-      <find>EtherLinkRunner</find>
-      <find>makelinkrunn</find>
-      <find>routes_up</find>
-      <find>routes</find>
-      <find>makelin</find>
-      <find>int(row</find>
-      <find>get_by_oid</find>
       <find>config</find>
       <find>links</find>
       <find>groupln</find>
@@ -29,8 +14,23 @@
       <find>enabled</find>
       <find>setenabled</find>
       <find>imei</find>
-      <find>DEFAULT</find>
       <find>test_pairs4</find>
+      <find>blank_value</find>
+      <find>advanced</find>
+      <find>DEFAULT</find>
+      <find>link.test_</find>
+      <find>delist</find>
+      <find>find a b</find>
+      <find>make_i</find>
+      <find>force_ig</find>
+      <find>LocalInterfaceInfo</find>
+      <find>closedb</find>
+      <find>TEST_DB_PATH</find>
+      <find>HIVE_</find>
+      <find>load_compl</find>
+      <find>destroy</find>
+      <find>ipv6</find>
+      <find>stp</find>
     </findStrings>
     <replaceStrings>
       <replace>userlog</replace>
