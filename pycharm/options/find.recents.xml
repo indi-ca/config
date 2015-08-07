@@ -1,36 +1,36 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>config</find>
-      <find>links</find>
-      <find>groupln</find>
-      <find>get_default_external_dns4</find>
-      <find>check_interface</find>
-      <find>get_all</find>
-      <find>ATZ</find>
-      <find>nat_to</find>
-      <find>linkcont</find>
-      <find>is</find>
-      <find>enabled</find>
-      <find>setenabled</find>
-      <find>imei</find>
-      <find>test_pairs4</find>
-      <find>blank_value</find>
-      <find>advanced</find>
-      <find>DEFAULT</find>
-      <find>link.test_</find>
-      <find>delist</find>
-      <find>find a b</find>
-      <find>make_i</find>
-      <find>force_ig</find>
-      <find>LocalInterfaceInfo</find>
-      <find>closedb</find>
-      <find>TEST_DB_PATH</find>
       <find>HIVE_</find>
       <find>load_compl</find>
       <find>destroy</find>
       <find>ipv6</find>
       <find>stp</find>
+      <find>localinterfaces</find>
+      <find>enable_</find>
+      <find>tracebo</find>
+      <find>getnetworks</find>
+      <find>interface0</find>
+      <find>scan_</find>
+      <find>netcon.config</find>
+      <find>netcon.conf</find>
+      <find>hiveattrs = dict</find>
+      <find>test_getinterface</find>
+      <find>interface</find>
+      <find>.key</find>
+      <find>get_free</find>
+      <find>q(</find>
+      <find>userlog</find>
+      <find>msgpack</find>
+      <find>save</find>
+      <find>__reper</find>
+      <find>get_folder</find>
+      <find>packb</find>
+      <find>get_messages_by</find>
+      <find>mki</find>
+      <find>BoolCheckBoxField</find>
+      <find>_validate_data</find>
+      <find>__repr__</find>
     </findStrings>
     <replaceStrings>
       <replace>userlog</replace>

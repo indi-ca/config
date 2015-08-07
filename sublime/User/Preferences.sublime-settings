@@ -10,8 +10,11 @@
 	"enable_tab_scrolling": false,
 	"enable_telemetry": "false",
 	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.graffle"
+	],
 	"findreplace_small": true,
-	"file_exclude_patterns": ["*.graffle"],
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -27,7 +30,7 @@
 	[
 		"no_round"
 	],
-	"font_size": 14,
+	"font_size": 16,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -51,5 +54,5 @@
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,
-	"word_wrap": false
+	"word_wrap": true
 }

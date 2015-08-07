@@ -1,47 +1,47 @@
 <application>
   <component name="StatisticsApplicationUsages">
     <group name="JavaScript versions">
-      <project id="safechat_default" values="DEFAULT" collectionTime="1437006682159" />
+      <project id="safechat_default" values="DEFAULT" collectionTime="1438756177862" />
       <project id="internal" values="DEFAULT" collectionTime="1436140606110" />
       <project id="winrip" values="DEFAULT" collectionTime="1436836916135" />
-      <project id="netbox" values="DEFAULT" collectionTime="1438382103207" />
+      <project id="netbox" values="DEFAULT" collectionTime="1438935758923" />
     </group>
     <group name="module type">
-      <project id="safechat_default" values="PYTHON_MODULE" collectionTime="1437006682153" />
+      <project id="safechat_default" values="PYTHON_MODULE" collectionTime="1438756177697" />
       <project id="internal" values="PYTHON_MODULE" collectionTime="1436140605866" />
       <project id="winrip" values="PYTHON_MODULE" collectionTime="1436836916117" />
-      <project id="netbox" values="PYTHON_MODULE" collectionTime="1438382103069" />
+      <project id="netbox" values="PYTHON_MODULE" collectionTime="1438935758763" />
     </group>
     <group name="vcs">
-      <project id="safechat_default" values="Git,hg4idea" collectionTime="1437006682153" />
+      <project id="safechat_default" values="hg4idea,Git" collectionTime="1438756177697" />
       <project id="internal" values="hg4idea" collectionTime="1436140605865" />
-      <project id="netbox" values="hg4idea" collectionTime="1438382103069" />
+      <project id="netbox" values="hg4idea" collectionTime="1438935758762" />
     </group>
     <group name="run-configuration-type">
-      <project id="safechat_default" values="PythonConfigurationType" collectionTime="1437006682153" />
+      <project id="safechat_default" values="PythonConfigurationType" collectionTime="1438756177698" />
     </group>
     <group name="file-type">
-      <project id="safechat_default" values="PLAIN_TEXT,Images,PATCH,JSON,XML,Native,HTML,Jinja2,Python,UNKNOWN" collectionTime="1437006682158" />
-      <project id="internal" values="PLAIN_TEXT,CSS,Python,XML,PATCH,C++,YAML,JavaScript,SQL,ARCHIVE,JSON,Jinja2,Ini,Native,Perl,HTML,Images,UNKNOWN" collectionTime="1436140605891" />
+      <project id="safechat_default" values="JSON,HTML,UNKNOWN,Python,Jinja2,Images,Native,PLAIN_TEXT,XML,PATCH" collectionTime="1438756177718" />
+      <project id="internal" values="ARCHIVE,Perl,XML,UNKNOWN,JSON,Jinja2,CSS,C++,HTML,Images,SQL,Native,Ini,Python,JavaScript,YAML,PLAIN_TEXT,PATCH" collectionTime="1436140605891" />
       <project id="winrip" values="PLAIN_TEXT,UNKNOWN,XML,Python" collectionTime="1436836916133" />
-      <project id="netbox" values="Jinja2,XML,JavaScript,HTML,Python,CSS,UNKNOWN,JSON,PLAIN_TEXT" collectionTime="1438382103083" />
+      <project id="netbox" values="JavaScript,Python,UNKNOWN,HTML,Jinja2,CSS,PLAIN_TEXT,XML,JSON" collectionTime="1438935758777" />
     </group>
     <group name="jdbc-datasource">
-      <project id="netbox" values="PostgreSQL/8.4.2" collectionTime="1438382103205" />
+      <project id="netbox" values="PostgreSQL/8.4.2" collectionTime="1438935758920" />
     </group>
     <group name="jdbc-driver">
-      <project id="netbox" values="org.postgresql.Driver" collectionTime="1438382103205" />
+      <project id="netbox" values="org.postgresql.Driver" collectionTime="1438935758920" />
     </group>
     <group name="py-interpreter">
       <project id="internal" values="Python 2.7.6" collectionTime="1436140605903" />
       <project id="winrip" values="Python 2.7.6" collectionTime="1436836916133" />
-      <project id="netbox" values="Python 2.7.6,Python 2.7.6" collectionTime="1438382103088" />
+      <project id="netbox" values="Python 2.7.6,Python 2.7.6" collectionTime="1438935758790" />
     </group>
     <group name="javaScript Scope Usages">
-      <project id="safechat_default" values="Project,Project" collectionTime="1437006682159" />
+      <project id="safechat_default" values="Project,Project" collectionTime="1438756177862" />
       <project id="internal" values="Project,Project" collectionTime="1436140606110" />
       <project id="winrip" values="Project,Project" collectionTime="1436836916135" />
-      <project id="netbox" values="Project,Project" collectionTime="1438382103207" />
+      <project id="netbox" values="Project,Project" collectionTime="1438935758922" />
     </group>
   </component>
   <component name="UsageTrigger">
@@ -50,10 +50,10 @@
       <entry feature="ide.settings.Code_Style" count="3" />
       <entry feature="ide.settings.Keymap" count="3" />
       <entry feature="ide.settings.Mercurial" count="3" />
-      <entry feature="ide.settings.Project_Structure" count="10" />
+      <entry feature="ide.settings.Project_Structure" count="11" />
       <entry feature="ide.settings.Version_Control" count="1" />
       <entry feature="idea.caches.invalidated" count="1" />
-      <entry feature="ideaapp.started" count="31" />
+      <entry feature="ideaapp.started" count="39" />
       <entry feature="uml.ShowDiagram.DIFF.popup" count="1" />
       <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="4" />
     </counts>
