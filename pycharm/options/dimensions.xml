@@ -4,13 +4,13 @@
     <location key="SettingsEditor.0.0.1920.1080" x="441" y="173" />
     <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="678" y="338" />
     <location key="com.intellij.ide.util.TipDialog.1920.0.1920.1200" x="2598" y="338" />
-    <location key="WELCOME_SCREEN.1920.0.1920.1200" x="2880" y="586" />
+    <location key="WELCOME_SCREEN.1920.0.1920.1200" x="2880" y="230" />
     <location key="FileChooserDialogImpl.1920.0.1920.1200" x="2206" y="358" />
     <location key="SettingsEditor.1920.0.1920.1200" x="1920" y="273" />
-    <location key="WELCOME_SCREEN.0.0.1920.1200" x="640" y="386" />
+    <location key="WELCOME_SCREEN.0.0.1920.1200" x="960" y="230" />
     <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.1920.0.1920.1200" x="2618" y="364" />
     <location key="com.intellij.ide.util.TipDialog.1920.0.1920.1080" x="2598" y="338" />
-    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.1920.0.1920.1200" x="1920" y="23" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.1920.0.1920.1200" x="2040" y="284" />
     <location key="RollbackChangesDialog.1920.0.1920.1200" x="2345" y="345" />
     <location key="VCS.FileHistoryDialog.1920.0.1920.1200" x="2048" y="95" />
     <location key="com.intellij.ide.util.TipDialog.0.0.1920.1200" x="2278" y="236" />
@@ -49,6 +49,7 @@
     <size key="DiffContextDialog.1920.0.1920.1080" width="1720" height="857" />
     <size key="CommitChangelistDialog2.1920.0.1920.1080" width="731" height="779" />
     <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1280.800" width="1280" height="773" />
+    <size key="SettingsEditor.1920.0.1920.1200" width="1435" height="783" />
     <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="6" />
     <extendedState key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" state="0" />
     <extendedState key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" state="300" />

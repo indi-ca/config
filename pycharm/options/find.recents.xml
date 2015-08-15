@@ -1,41 +1,43 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>HIVE_</find>
-      <find>load_compl</find>
-      <find>destroy</find>
-      <find>ipv6</find>
-      <find>stp</find>
-      <find>localinterfaces</find>
-      <find>enable_</find>
-      <find>tracebo</find>
-      <find>getnetworks</find>
-      <find>interface0</find>
-      <find>scan_</find>
-      <find>netcon.config</find>
-      <find>netcon.conf</find>
-      <find>hiveattrs = dict</find>
-      <find>test_getinterface</find>
-      <find>interface</find>
-      <find>.key</find>
-      <find>get_free</find>
-      <find>q(</find>
-      <find>userlog</find>
-      <find>msgpack</find>
-      <find>save</find>
-      <find>__reper</find>
-      <find>get_folder</find>
-      <find>packb</find>
-      <find>get_messages_by</find>
-      <find>mki</find>
-      <find>BoolCheckBoxField</find>
-      <find>_validate_data</find>
-      <find>__repr__</find>
+      <find>NBBArchive</find>
+      <find>NBBArchiveConferenceMessagesTrigger</find>
+      <find>trigger</find>
+      <find>simplejso</find>
+      <find>regist</find>
+      <find>archive</find>
+      <find>trigger_inst</find>
+      <find>get_value</find>
+      <find>set_since_to_backdate</find>
+      <find>archive_since_twoway</find>
+      <find>backdate_changed</find>
+      <find>twoway_record_ids</find>
+      <find>row</find>
+      <find>trigger_date</find>
+      <find>twoway_latest</find>
+      <find>NBBArchiveMessages</find>
+      <find>window</find>
+      <find>holding</find>
+      <find>window_query</find>
+      <find>random_window_queries</find>
+      <find>datetime</find>
+      <find>diagnostic</find>
+      <find>backlog</find>
+      <find>import dat</find>
+      <find>triggers i</find>
+      <find>backdate</find>
+      <find>TRIGGER_DATE_REG_KEY</find>
+      <find>execut</find>
+      <find>trigger_int</find>
+      <find>trigger_install_date</find>
     </findStrings>
     <replaceStrings>
       <replace>userlog</replace>
       <replace>755</replace>
       <replace>NetconVersioningAssistant</replace>
+      <replace>&quot;</replace>
+      <replace>backdate</replace>
     </replaceStrings>
   </component>
 </application>
