@@ -1,10 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>NBBArchive</find>
-      <find>NBBArchiveConferenceMessagesTrigger</find>
-      <find>trigger</find>
-      <find>simplejso</find>
       <find>regist</find>
       <find>archive</find>
       <find>trigger_inst</find>
@@ -30,7 +26,11 @@
       <find>TRIGGER_DATE_REG_KEY</find>
       <find>execut</find>
       <find>trigger_int</find>
+      <find>trigger install</find>
+      <find>conf_tr</find>
       <find>trigger_install_date</find>
+      <find>conference_record_ids</find>
+      <find>partial</find>
     </findStrings>
     <replaceStrings>
       <replace>userlog</replace>

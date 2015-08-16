@@ -6,20 +6,48 @@
    t)
   (package-initialize))
 
+; (add-to-list 'package-archives
+;              '("marmalade" . "http://marmalade-repo.org/packages/") t)
+; (package-initialize)
+
 
 ; (color-theme-initialize)
 ; (color-theme-charcoal-black)
 
 (load-theme 'ample-zen t)
 
-; (set-face-attribute 'default nil :family "Inconsolata" :height 180)
 
-; (add-to-list 'package-archives
-;             '("melpa" . "http://melpa.org/packages/") t)
-; (add-to-list 'package-archives
-;              '("marmalade" . "http://marmalade-repo.org/packages/") t)
-; (package-initialize)
+;; Set Fonts
+(set-face-attribute 'default nil
+                    :family "Inconsolata"
+                    :height 140
+                    :weight 'normal
+                    :width 'normal)
 
+(when (functionp 'set-fontset-font)
+  (set-fontset-font "fontset-default"
+                    'unicode
+                    (font-spec :family "DejaVu Sans Mono"
+                               :width 'normal
+                               :size 12.4
+                               :weight 'normal)))
+;; Powerline
+'(powerline-center-theme)
+
+
+;; Scrolling
+(setq redisplay-dont-pause t
+      scroll-margin 1
+      scroll-step 1
+      scroll-conservatively 10000
+      scroll-preserve-screen-position 1)
+
+(setq mouse-wheel-follow-mouse 't)
+(setq mouse-wheel-scroll-amount '(1 ((shift) . 1)))
+
+
+;; Inhibit the startup screen
+(setq inhibit-startup-screen +1)
 
 
 
@@ -59,7 +87,7 @@
  '(custom-safe-themes
    (quote
     ("1db337246ebc9c083be0d728f8d20913a0f46edc0a00277746ba411c149d7fe5" default)))
- '(package-selected-packages (quote (ample-zen-theme ergoemacs-mode))))
+ '(package-selected-packages (quote (powerline ample-zen-theme ergoemacs-mode))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
