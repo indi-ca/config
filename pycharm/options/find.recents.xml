@@ -1,36 +1,36 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>regist</find>
-      <find>archive</find>
+      <find>amp</find>
+      <find>delete_held</find>
+      <find>limit</find>
+      <find>sqlal</find>
+      <find>release</find>
+      <find>get_se</find>
+      <find>Forei</find>
+      <find>ForeignKey</find>
+      <find>bigint</find>
+      <find>trigger_install_dat</find>
+      <find>dia</find>
+      <find>fntick</find>
+      <find>timed</find>
+      <find>timedel</find>
+      <find>windo_q</find>
+      <find>not eno</find>
+      <find>urllib</find>
+      <find>process</find>
       <find>trigger_inst</find>
-      <find>get_value</find>
-      <find>set_since_to_backdate</find>
-      <find>archive_since_twoway</find>
-      <find>backdate_changed</find>
-      <find>twoway_record_ids</find>
-      <find>row</find>
+      <find>since</find>
+      <find>get_tri</find>
+      <find>get_tr</find>
       <find>trigger_date</find>
-      <find>twoway_latest</find>
-      <find>NBBArchiveMessages</find>
-      <find>window</find>
-      <find>holding</find>
-      <find>window_query</find>
-      <find>random_window_queries</find>
-      <find>datetime</find>
-      <find>diagnostic</find>
-      <find>backlog</find>
-      <find>import dat</find>
-      <find>triggers i</find>
-      <find>backdate</find>
-      <find>TRIGGER_DATE_REG_KEY</find>
-      <find>execut</find>
-      <find>trigger_int</find>
-      <find>trigger install</find>
-      <find>conf_tr</find>
-      <find>trigger_install_date</find>
-      <find>conference_record_ids</find>
-      <find>partial</find>
+      <find>os</find>
+      <find>get_sessi</find>
+      <find>_and</find>
+      <find>and_</find>
+      <find>testing r</find>
+      <find>migration</find>
+      <find>is_forced</find>
     </findStrings>
     <replaceStrings>
       <replace>userlog</replace>

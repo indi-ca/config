@@ -37,6 +37,7 @@ ignore = version, help, update, serve, record
 [ui]
 ignore = ~/.hgignore
 username = ipiyasena
+merge = internal:merge
 
 [paths]
 netbox = https://hg.nb/nbx/netbox
@@ -48,9 +49,3 @@ nbx.schemes = https
 nbx.prefix = hg.nb/nbx
 nbx.username = ipiyasena
 
-[merge-tools]
-meld.gui = True
-meld.checkchanged = True
-meld.premerge = True
-meld.args = --label='local' $local --label='merged' $base --label='other' $other -o $output
-meld.diffargs = -a --label='$plabel1' $parent --label='$clabel' $child

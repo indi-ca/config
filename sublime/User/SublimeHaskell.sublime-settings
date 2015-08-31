@@ -13,9 +13,9 @@
 	[
 	],
 	"cache_path": ".",
-	"enable_auto_build": true,
-	"enable_auto_check": true,
-	"enable_auto_lint": true,
+	"enable_auto_build": false,
+	"enable_auto_check": false,
+	"enable_auto_lint": false,
 	"enable_ghc_mod": true,
 	"enable_hdevtools": true,
 	"enable_hdocs": false,

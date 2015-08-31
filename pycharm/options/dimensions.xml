@@ -4,13 +4,13 @@
     <location key="SettingsEditor.0.0.1920.1080" x="441" y="173" />
     <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="678" y="338" />
     <location key="com.intellij.ide.util.TipDialog.1920.0.1920.1200" x="2598" y="338" />
-    <location key="WELCOME_SCREEN.1920.0.1920.1200" x="2880" y="230" />
+    <location key="WELCOME_SCREEN.1920.0.1920.1200" x="2534" y="588" />
     <location key="FileChooserDialogImpl.1920.0.1920.1200" x="2206" y="358" />
     <location key="SettingsEditor.1920.0.1920.1200" x="1920" y="273" />
     <location key="WELCOME_SCREEN.0.0.1920.1200" x="960" y="230" />
     <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.1920.0.1920.1200" x="2618" y="364" />
     <location key="com.intellij.ide.util.TipDialog.1920.0.1920.1080" x="2598" y="338" />
-    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.1920.0.1920.1200" x="2040" y="284" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.1920.0.1920.1200" x="1920" y="23" />
     <location key="RollbackChangesDialog.1920.0.1920.1200" x="2345" y="345" />
     <location key="VCS.FileHistoryDialog.1920.0.1920.1200" x="2048" y="95" />
     <location key="com.intellij.ide.util.TipDialog.0.0.1920.1200" x="2278" y="236" />
@@ -34,6 +34,11 @@
     <location key="FileChooserDialogImpl.0.0.1280.800" x="407" y="156" />
     <location key="SettingsEditor.0.0.1280.800" x="121" y="71" />
     <location key="WELCOME_SCREEN.0.0.1280.800" x="640" y="386" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.1920.0.1920.1080" x="2558" y="23" />
+    <location key="dock-window-1.1920.0.1920.1080" x="2020" y="123" />
+    <location key="com.intellij.history.integration.ui.views.SelectionHistoryDialog.0.0.1920.1080" x="100" y="123" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="727" y="258" />
+    <location key="com.intellij.history.integration.ui.views.SelectionHistoryDialog.1920.0.1920.1080" x="2020" y="123" />
     <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.1920.0.1920.1200" width="1920" height="1177" />
     <size key="VCS.FileHistoryDialog.1920.0.1920.1200" width="1038" height="1032" />
     <size key="CommitChangelistDialog2.1920.0.1920.1200" width="691" height="894" />
@@ -41,7 +46,7 @@
     <size key="com.intellij.history.integration.ui.views.SelectionHistoryDialog.1920.0.1920.1200" width="1720" height="977" />
     <size key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0.0.1280.800" width="1078" height="573" />
     <size key="com.intellij.history.integration.ui.views.SelectionHistoryDialog.0.0.1280.800" width="1078" height="573" />
-    <size key="DiffContextDialog.1920.0.1920.1200" width="960" height="1177" />
+    <size key="DiffContextDialog.1920.0.1920.1200" width="960" height="1173" />
     <size key="GridCell.Tab.0.left.1920.0.1920.1200" width="0" height="0" />
     <size key="GridCell.Tab.0.center.1920.0.1920.1200" width="0" height="0" />
     <size key="GridCell.Tab.0.right.1920.0.1920.1200" width="0" height="0" />
@@ -50,6 +55,9 @@
     <size key="CommitChangelistDialog2.1920.0.1920.1080" width="731" height="779" />
     <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1280.800" width="1280" height="773" />
     <size key="SettingsEditor.1920.0.1920.1200" width="1435" height="783" />
+    <size key="dock-window-1.1920.0.1920.1080" width="1720" height="857" />
+    <size key="com.intellij.history.integration.ui.views.SelectionHistoryDialog.0.0.1920.1080" width="1720" height="853" />
+    <size key="com.intellij.history.integration.ui.views.SelectionHistoryDialog.1920.0.1920.1080" width="1212" height="857" />
     <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="6" />
     <extendedState key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" state="0" />
     <extendedState key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" state="300" />
@@ -57,6 +65,7 @@
     <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.1" state="500" />
     <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.0" state="132" />
     <extendedState key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" state="0" />
+    <extendedState key="dock-window-1" state="0" />
     <extendedState key="com.intellij.history.integration.ui.views.SelectionHistoryDialog.1" state="500" />
     <extendedState key="com.intellij.history.integration.ui.views.SelectionHistoryDialog.0" state="300" />
   </component>
