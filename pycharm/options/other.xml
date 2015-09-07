@@ -50,4 +50,27 @@
   <component name="PyCodeInsightSettings">
     <option name="RENAME_PARAMETERS_IN_HIERARCHY" value="false" />
   </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/netbox/bin/python" value="false" />
+        <entry key="ssh://root@192.168.0.65:22/usr/bin/python" value="false" />
+        <entry key="ssh://root@lego.safenetbox.biz:4/usr/bin/python" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/netbox/bin/python" value="false" />
+        <entry key="ssh://root@192.168.0.65:22/usr/bin/python" value="false" />
+        <entry key="ssh://root@lego.safenetbox.biz:4/usr/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_ATTEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/netbox/bin/python" value="false" />
+        <entry key="ssh://root@192.168.0.65:22/usr/bin/python" value="false" />
+        <entry key="ssh://root@lego.safenetbox.biz:4/usr/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
 </application>

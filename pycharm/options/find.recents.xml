@@ -1,25 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>amp</find>
-      <find>delete_held</find>
-      <find>limit</find>
-      <find>sqlal</find>
-      <find>release</find>
-      <find>get_se</find>
-      <find>Forei</find>
-      <find>ForeignKey</find>
-      <find>bigint</find>
-      <find>trigger_install_dat</find>
-      <find>dia</find>
-      <find>fntick</find>
-      <find>timed</find>
-      <find>timedel</find>
-      <find>windo_q</find>
-      <find>not eno</find>
-      <find>urllib</find>
-      <find>process</find>
-      <find>trigger_inst</find>
       <find>since</find>
       <find>get_tri</find>
       <find>get_tr</find>
@@ -31,6 +12,25 @@
       <find>testing r</find>
       <find>migration</find>
       <find>is_forced</find>
+      <find>get</find>
+      <find>get()</find>
+      <find>store</find>
+      <find>validate_and_commit</find>
+      <find>proxy.pac</find>
+      <find>xml</find>
+      <find>request_update</find>
+      <find>Announce</find>
+      <find>not_implement</find>
+      <find>html</find>
+      <find>forced</find>
+      <find>indika</find>
+      <find>LinkedInNewsContainerChunk</find>
+      <find>create_chi</find>
+      <find>LinkedInNewsPostChunk</find>
+      <find>get_senttime</find>
+      <find>linkedInMessagingChunk</find>
+      <find>DirectMessageSummaryChunk</find>
+      <find>linkedIn</find>
     </findStrings>
     <replaceStrings>
       <replace>userlog</replace>
@@ -38,6 +38,7 @@
       <replace>NetconVersioningAssistant</replace>
       <replace>&quot;</replace>
       <replace>backdate</replace>
+      <replace>csv</replace>
     </replaceStrings>
   </component>
 </application>

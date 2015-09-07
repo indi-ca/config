@@ -21,6 +21,10 @@
             "name": "Hist",
         },
         {
+            "path": "/Users/indika/dev/sanity/responder",
+            "name": "Sanity Responder",
+        },
+        {
             "path": "/Users/indika/dev/box/sandbox",
             "name": "Sandbox",
         },
