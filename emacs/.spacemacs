@@ -169,8 +169,8 @@ before layers configuration."
  This function is called at the very end of Spacemacs initialization after
 layers configuration."
   ;;(add-to-list 'exec-path "/Library/Haskell/ghc-7.8.3-x86_64/bin")
-  (add-to-list 'exec-path "/Library/Frameworks/GHC.framework/Versions/7.8.3-x86_64/usr/bin")
-  (add-to-list 'exec-path "/Users/indika/dev/tools/emacshaskell-sandbox/.cabal-sandbox/bin")
+  (add-to-list 'exec-path "/Library/Frameworks/GHC.framework/Versions/7.10.2-x86_64/usr/bin")
+  (add-to-list 'exec-path "/Users/indika/Library/Haskell/bin")
   (setq company-tooltip-limit 20)                      ; bigger popup window
   (setq company-idle-delay .3)                         ; decrease delay before autocompletion popup shows
   (setq company-echo-delay 0)                          ; remove annoying blinking
