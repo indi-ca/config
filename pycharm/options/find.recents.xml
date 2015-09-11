@@ -1,36 +1,36 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>since</find>
-      <find>get_tri</find>
-      <find>get_tr</find>
-      <find>trigger_date</find>
-      <find>os</find>
-      <find>get_sessi</find>
-      <find>_and</find>
-      <find>and_</find>
-      <find>testing r</find>
-      <find>migration</find>
-      <find>is_forced</find>
-      <find>get</find>
-      <find>get()</find>
-      <find>store</find>
-      <find>validate_and_commit</find>
-      <find>proxy.pac</find>
-      <find>xml</find>
-      <find>request_update</find>
-      <find>Announce</find>
-      <find>not_implement</find>
-      <find>html</find>
-      <find>forced</find>
-      <find>indika</find>
-      <find>LinkedInNewsContainerChunk</find>
-      <find>create_chi</find>
       <find>LinkedInNewsPostChunk</find>
       <find>get_senttime</find>
       <find>linkedInMessagingChunk</find>
       <find>DirectMessageSummaryChunk</find>
       <find>linkedIn</find>
+      <find>linkedinmessagingchunk</find>
+      <find>url</find>
+      <find>subject</find>
+      <find>expected_sub</find>
+      <find>simplejson</find>
+      <find>post</find>
+      <find>ENGINE_URI</find>
+      <find>get_attachments</find>
+      <find>SentDirectMessageFolder</find>
+      <find>update_archive_message_from_response</find>
+      <find>LinkedInMessagingChunk</find>
+      <find>upload</find>
+      <find>attach</find>
+      <find>get_attach</find>
+      <find>delete</find>
+      <find>LinkedInMessagingSendingChunk</find>
+      <find>self.config</find>
+      <find>multi</find>
+      <find>_get_chunks</find>
+      <find>magic_eye</find>
+      <find>289</find>
+      <find>ting</find>
+      <find>set_text</find>
+      <find>before_ser</find>
+      <find>before_seria</find>
     </findStrings>
     <replaceStrings>
       <replace>userlog</replace>
@@ -39,6 +39,8 @@
       <replace>&quot;</replace>
       <replace>backdate</replace>
       <replace>csv</replace>
+      <replace>LinkedInMessagingReadChunk</replace>
+      <replace>LinkedInMessagingSendChunk</replace>
     </replaceStrings>
   </component>
 </application>

@@ -54,6 +54,7 @@
     <option name="SDK_TO_PYTEST">
       <map>
         <entry key="$USER_HOME$/.virtualenvs/netbox/bin/python" value="false" />
+        <entry key="/opt/python/3.4.1/bin/python3.4" value="false" />
         <entry key="ssh://root@192.168.0.65:22/usr/bin/python" value="false" />
         <entry key="ssh://root@lego.safenetbox.biz:4/usr/bin/python" value="true" />
       </map>
@@ -61,6 +62,7 @@
     <option name="SDK_TO_NOSETEST">
       <map>
         <entry key="$USER_HOME$/.virtualenvs/netbox/bin/python" value="false" />
+        <entry key="/opt/python/3.4.1/bin/python3.4" value="false" />
         <entry key="ssh://root@192.168.0.65:22/usr/bin/python" value="false" />
         <entry key="ssh://root@lego.safenetbox.biz:4/usr/bin/python" value="false" />
       </map>
@@ -68,6 +70,7 @@
     <option name="SDK_TO_ATTEST">
       <map>
         <entry key="$USER_HOME$/.virtualenvs/netbox/bin/python" value="false" />
+        <entry key="/opt/python/3.4.1/bin/python3.4" value="false" />
         <entry key="ssh://root@192.168.0.65:22/usr/bin/python" value="false" />
         <entry key="ssh://root@lego.safenetbox.biz:4/usr/bin/python" value="false" />
       </map>
