@@ -3,8 +3,8 @@
     <option name="recentPaths">
       <list>
         <option value="$USER_HOME$/dev/box/safechat" />
-        <option value="$USER_HOME$/dev/box/mailarchive/mailarchive" />
         <option value="$USER_HOME$/dev/box/netbox" />
+        <option value="$USER_HOME$/dev/box/mailarchive/mailarchive" />
         <option value="$USER_HOME$/dev/tmp/test_project" />
         <option value="/private/tmp/test_project" />
         <option value="$USER_HOME$/dev/box/netbox/winrip" />
@@ -13,11 +13,14 @@
     </option>
     <option name="openPaths">
       <list>
+        <option value="$USER_HOME$/dev/box/mailarchive/mailarchive" />
+        <option value="$USER_HOME$/dev/box/netbox" />
         <option value="$USER_HOME$/dev/box/safechat" />
       </list>
     </option>
     <option name="names">
       <map>
+        <entry key="$USER_HOME$/dev/box/netbox" value="netbox, sandbox" />
         <entry key="$USER_HOME$/dev/box/safechat" value="safechat_default, src" />
       </map>
     </option>
