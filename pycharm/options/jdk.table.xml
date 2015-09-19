@@ -20,7 +20,6 @@
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
             <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/python_stubs/348993582" />
             <root type="simple" url="file://$USER_HOME$/dev/box/internal/nb-devtools/modules" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/python_stubs/348993582" />
           </root>
         </classPath>
         <sourcePath>

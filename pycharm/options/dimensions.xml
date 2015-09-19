@@ -3,8 +3,8 @@
     <location key="WELCOME_SCREEN.0.0.1920.1080" x="2880" y="528" />
     <location key="SettingsEditor.0.0.1920.1080" x="441" y="173" />
     <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="678" y="338" />
-    <location key="com.intellij.ide.util.TipDialog.1920.0.1920.1200" x="1920" y="23" />
-    <location key="WELCOME_SCREEN.1920.0.1920.1200" x="2880" y="588" />
+    <location key="com.intellij.ide.util.TipDialog.1920.0.1920.1200" x="2278" y="27" />
+    <location key="WELCOME_SCREEN.1920.0.1920.1200" x="2782" y="256" />
     <location key="FileChooserDialogImpl.1920.0.1920.1200" x="2206" y="358" />
     <location key="SettingsEditor.1920.0.1920.1200" x="1920" y="23" />
     <location key="WELCOME_SCREEN.0.0.1920.1200" x="960" y="230" />

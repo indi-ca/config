@@ -1,9 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>multi</find>
-      <find>_get_chunks</find>
-      <find>magic_eye</find>
       <find>289</find>
       <find>ting</find>
       <find>set_text</find>
@@ -31,6 +28,9 @@
       <find>is_mutat</find>
       <find>get_by</find>
       <find>get_bype</find>
+      <find>get_messages_by_platform</find>
+      <find>send_archive_emails</find>
+      <find>get_text</find>
     </findStrings>
     <replaceStrings>
       <replace>userlog</replace>

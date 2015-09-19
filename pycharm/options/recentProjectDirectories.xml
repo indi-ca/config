@@ -13,7 +13,6 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/dev/box/mailarchive/mailarchive" />
         <option value="$USER_HOME$/dev/box/netbox" />
         <option value="$USER_HOME$/dev/box/safechat" />
       </list>

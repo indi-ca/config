@@ -179,6 +179,12 @@ layers configuration."
 ;;  (global-linum-mode) ; Show line numbers by default
 )
 
+(defun indika--save-all ()
+  (interactive)
+  (save-some-buffers t))
+(add-hook 'focus-out-hook 'indika--save-all)
+
+
 ;; Do not write anything past this comment. This is where Emacs will
 ;; auto-generate custom variable definitions.
 (custom-set-variables
