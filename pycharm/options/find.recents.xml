@@ -1,10 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>289</find>
-      <find>ting</find>
-      <find>set_text</find>
-      <find>before_seria</find>
       <find>safech</find>
       <find>get_byte</find>
       <find>before_ser</find>
@@ -31,6 +27,10 @@
       <find>get_messages_by_platform</find>
       <find>send_archive_emails</find>
       <find>get_text</find>
+      <find>create_bu</find>
+      <find>commit</find>
+      <find>create_</find>
+      <find>setblock</find>
     </findStrings>
     <replaceStrings>
       <replace>userlog</replace>

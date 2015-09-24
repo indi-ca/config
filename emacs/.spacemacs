@@ -22,7 +22,7 @@
      xkcd
      emacs-lisp
      osx
-     haskell
+     (haskell :varibles haskell-enable-shm-support t)
      python
      git
      markdown
@@ -33,7 +33,7 @@
      ;; syntax-checking
      version-control
      themes-megapack
-     indika
+     indika-packages
      )
    ;; List of additional packages that will be installed without being
    ;; wrapped in a layer. If you need some configuration for these
@@ -177,6 +177,8 @@ layers configuration."
   (setq company-begin-commands '(self-insert-command)) ; start autocompletion only after typing
 ;;  (global-hl-line-mode -1) ; Disable current line highlight
 ;;  (global-linum-mode) ; Show line numbers by default
+  (server-start)
+
 )
 
 (defun indika--save-all ()
