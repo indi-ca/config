@@ -129,5 +129,33 @@
       </roots>
       <additional />
     </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 virtualenv at ~/.virtualenvs/mailarchive" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="$USER_HOME$/.virtualenvs/mailarchive/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/dev/box/internal/nb-devtools/modules" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/mailarchive/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/mailarchive/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///opt/boxen/homebrew/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///opt/boxen/homebrew/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///opt/boxen/homebrew/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///opt/boxen/homebrew/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///opt/boxen/homebrew/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/mailarchive/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/python_stubs/1856214907" />
+            <root type="simple" url="file://$USER_HOME$/dev/box/mailarchive/mailrelay/src" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
   </component>
 </application>

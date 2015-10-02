@@ -2,58 +2,62 @@
   <component name="StatisticsApplicationUsages">
     <group name="JavaScript versions">
       <project id="test_project" values="DEFAULT" collectionTime="1441149006508" />
-      <project id="internal" values="DEFAULT" collectionTime="1443051466165" />
-      <project id="mailarchive" values="DEFAULT" collectionTime="1443055967462" />
+      <project id="internal" values="DEFAULT" collectionTime="1443439524545" />
+      <project id="mailarchive" values="DEFAULT" collectionTime="1443776119038" />
       <project id="winrip" values="DEFAULT" collectionTime="1439268098781" />
       <project id="safechat_default" values="DEFAULT" collectionTime="1443079693153" />
       <project id="netbox" values="DEFAULT" collectionTime="1442918450480" />
     </group>
     <group name="module type">
       <project id="test_project" values="PYTHON_MODULE" collectionTime="1441149006484" />
-      <project id="internal" values="PYTHON_MODULE" collectionTime="1443051465999" />
-      <project id="mailarchive" values="PYTHON_MODULE" collectionTime="1443055967390" />
+      <project id="internal" values="PYTHON_MODULE" collectionTime="1443439524377" />
+      <project id="mailarchive" values="PYTHON_MODULE" collectionTime="1443776118992" />
       <project id="winrip" values="PYTHON_MODULE" collectionTime="1439268098670" />
       <project id="safechat_default" values="PYTHON_MODULE" collectionTime="1443079692987" />
       <project id="netbox" values="PYTHON_MODULE" collectionTime="1442918450466" />
     </group>
     <group name="vcs">
       <project id="safechat_default" values="hg4idea" collectionTime="1443079692987" />
-      <project id="internal" values="hg4idea" collectionTime="1443051465998" />
+      <project id="internal" values="hg4idea" collectionTime="1443439524377" />
       <project id="netbox" values="hg4idea" collectionTime="1442918450466" />
-      <project id="mailarchive" values="hg4idea" collectionTime="1443055967390" />
+      <project id="mailarchive" values="hg4idea" collectionTime="1443776118992" />
     </group>
     <group name="run-configuration-type">
       <project id="safechat_default" values="PyRemoteDebugConfigurationType,PythonConfigurationType" collectionTime="1443079692988" />
-      <project id="internal" values="PyRemoteDebugConfigurationType" collectionTime="1443051465999" />
+      <project id="internal" values="PyRemoteDebugConfigurationType" collectionTime="1443439524377" />
+      <project id="mailarchive" values="PythonConfigurationType" collectionTime="1443776118992" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="mailarchive" values="tests.Unittests" collectionTime="1443776118993" />
     </group>
     <group name="file-type">
-      <project id="test_project" values="UNKNOWN,PLAIN_TEXT,XML,Python" collectionTime="1441149006501" />
-      <project id="internal" values="Jinja2,ARCHIVE,Images,C++,Perl,SQL,Native,XML,JSON,UNKNOWN,Python,JavaScript,PLAIN_TEXT,Ini,HTML,PATCH,YAML,CSS" collectionTime="1443051466023" />
-      <project id="mailarchive" values="JSON,UNKNOWN,PLAIN_TEXT,Python" collectionTime="1443055967449" />
-      <project id="winrip" values="PLAIN_TEXT,UNKNOWN,XML,Python" collectionTime="1439268098712" />
-      <project id="safechat_default" values="PLAIN_TEXT,PATCH,XML,Jinja2,HTML,Native,UNKNOWN,Images,Python,JSON" collectionTime="1443079693025" />
-      <project id="netbox" values="PLAIN_TEXT,UNKNOWN,C++,Python,HTML,Haskell,XML" collectionTime="1442918450480" />
+      <project id="test_project" values="UNKNOWN,XML,PLAIN_TEXT,Python" collectionTime="1441149006501" />
+      <project id="internal" values="Python,XML,ARCHIVE,JSON,PATCH,JavaScript,YAML,Ini,CSS,UNKNOWN,SQL,Perl,PLAIN_TEXT,Native,C++,HTML,Images,Jinja2" collectionTime="1443439524414" />
+      <project id="mailarchive" values="UNKNOWN,PLAIN_TEXT,Python" collectionTime="1443776119036" />
+      <project id="winrip" values="Python,UNKNOWN,PLAIN_TEXT,XML" collectionTime="1439268098712" />
+      <project id="safechat_default" values="Jinja2,UNKNOWN,XML,HTML,PATCH,Python,Native,PLAIN_TEXT,JSON,Images" collectionTime="1443079693025" />
+      <project id="netbox" values="PLAIN_TEXT,UNKNOWN,C++,XML,Python,HTML,Haskell" collectionTime="1442918450480" />
     </group>
     <group name="jdbc-datasource">
       <project id="netbox" values="PostgreSQL/8.4.2" collectionTime="1442918450480" />
-      <project id="mailarchive" values="PostgreSQL/9.4.1" collectionTime="1443055967462" />
+      <project id="mailarchive" values="PostgreSQL/9.4.1" collectionTime="1443776119037" />
     </group>
     <group name="jdbc-driver">
       <project id="netbox" values="org.postgresql.Driver" collectionTime="1442918450480" />
-      <project id="mailarchive" values="org.postgresql.Driver" collectionTime="1443055967462" />
+      <project id="mailarchive" values="org.postgresql.Driver" collectionTime="1443776119038" />
     </group>
     <group name="py-interpreter">
       <project id="test_project" values="Python 2.7.6" collectionTime="1441149006502" />
-      <project id="internal" values="Python 2.7.6" collectionTime="1443051466030" />
-      <project id="mailarchive" values="Python 2.7.10" collectionTime="1443055967452" />
+      <project id="internal" values="Python 2.7.6" collectionTime="1443439524419" />
+      <project id="mailarchive" values="Python 2.7.10" collectionTime="1443776119037" />
       <project id="winrip" values="Python 2.7.6" collectionTime="1439268098716" />
       <project id="safechat_default" values="Python 2.7.10" collectionTime="1443079693029" />
       <project id="netbox" values="Python 2.7.6,Python 2.7.6" collectionTime="1442918450480" />
     </group>
     <group name="javaScript Scope Usages">
       <project id="test_project" values="Project,Project" collectionTime="1441149006508" />
-      <project id="internal" values="Project,Project" collectionTime="1443051466165" />
-      <project id="mailarchive" values="Project,Project" collectionTime="1443055967462" />
+      <project id="internal" values="Project,Project" collectionTime="1443439524545" />
+      <project id="mailarchive" values="Project,Project" collectionTime="1443776119038" />
       <project id="winrip" values="Project,Project" collectionTime="1439268098781" />
       <project id="safechat_default" values="Project,Project" collectionTime="1443079693153" />
       <project id="netbox" values="Project,Project" collectionTime="1442918450480" />
@@ -61,17 +65,19 @@
   </component>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="CreateFile.CreateFileAction" count="13" />
+      <entry feature="CreateFile.CreateFileAction" count="14" />
       <entry feature="execute.PyRemoteDebugConfigurationType.Debug" count="88" />
-      <entry feature="execute.PythonConfigurationType.Debug" count="1" />
+      <entry feature="execute.PythonConfigurationType.Debug" count="37" />
+      <entry feature="execute.tests.Debug" count="1" />
+      <entry feature="execute.tests.Run" count="3" />
       <entry feature="ide.settings.Code_Style" count="4" />
       <entry feature="ide.settings.Keymap" count="4" />
       <entry feature="ide.settings.Mercurial" count="3" />
-      <entry feature="ide.settings.Project_Interpreter" count="7" />
+      <entry feature="ide.settings.Project_Interpreter" count="8" />
       <entry feature="ide.settings.Project_Structure" count="23" />
       <entry feature="ide.settings.Version_Control" count="3" />
       <entry feature="idea.caches.invalidated" count="1" />
-      <entry feature="ideaapp.started" count="79" />
+      <entry feature="ideaapp.started" count="85" />
       <entry feature="uml.ShowDiagram.DATABASE" count="1" />
       <entry feature="uml.ShowDiagram.DIFF.popup" count="1" />
       <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="5" />
