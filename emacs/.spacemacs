@@ -175,6 +175,7 @@ layers configuration."
   (setq company-idle-delay .3)                         ; decrease delay before autocompletion popup shows
   (setq company-echo-delay 0)                          ; remove annoying blinking
   (setq company-begin-commands '(self-insert-command)) ; start autocompletion only after typing
+  (setq vc-follow-symlinks nil)
 ;;  (global-hl-line-mode -1) ; Disable current line highlight
 ;;  (global-linum-mode) ; Show line numbers by default
   (server-start)

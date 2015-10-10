@@ -1,24 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>before</find>
-      <find>is_mutat</find>
-      <find>get_by</find>
-      <find>get_bype</find>
-      <find>get_messages_by_platform</find>
-      <find>send_archive_emails</find>
-      <find>get_text</find>
-      <find>create_bu</find>
-      <find>setblock</find>
-      <find>create_</find>
-      <find>create_cus</find>
-      <find>storage_engine</find>
-      <find>import j</find>
-      <find>create_buc</find>
-      <find>bucket</find>
-      <find>body</find>
-      <find>storage</find>
-      <find>date</find>
       <find>events</find>
       <find>abork</find>
       <find>deletedb</find>
@@ -31,6 +13,24 @@
       <find>commit</find>
       <find>update_cust</find>
       <find>get_customer_da</find>
+      <find>notifyFinish</find>
+      <find>log_access_record</find>
+      <find>cache_id</find>
+      <find>log_acc</find>
+      <find>log</find>
+      <find>%s</find>
+      <find>process_res</find>
+      <find>Wizardry</find>
+      <find>read</find>
+      <find>74.125.203.189</find>
+      <find>52.2.65.9</find>
+      <find>64.233.189.95</find>
+      <find>191.234.4.50</find>
+      <find>64.233.187.16</find>
+      <find>EOF</find>
+      <find>54.201.112.14</find>
+      <find>52.89.185.5</find>
+      <find>118.127.11.210</find>
     </findStrings>
     <replaceStrings>
       <replace>userlog</replace>
@@ -41,6 +41,7 @@
       <replace>csv</replace>
       <replace>LinkedInMessagingReadChunk</replace>
       <replace>LinkedInMessagingSendChunk</replace>
+      <replace>LogParser</replace>
     </replaceStrings>
   </component>
 </application>

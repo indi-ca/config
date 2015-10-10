@@ -1,6 +1,6 @@
 <application>
   <component name="DimensionService">
-    <location key="WELCOME_SCREEN.0.0.1920.1080" x="2880" y="528" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="480" y="386" />
     <location key="SettingsEditor.0.0.1920.1080" x="441" y="173" />
     <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="678" y="338" />
     <location key="com.intellij.ide.util.TipDialog.1920.0.1920.1200" x="2278" y="27" />
@@ -33,7 +33,7 @@
     <location key="FileChooserDialogImpl.1920.0.1920.1080" x="2647" y="298" />
     <location key="FileChooserDialogImpl.0.0.1280.800" x="407" y="156" />
     <location key="SettingsEditor.0.0.1280.800" x="121" y="71" />
-    <location key="WELCOME_SCREEN.0.0.1280.800" x="640" y="386" />
+    <location key="WELCOME_SCREEN.0.0.1280.800" x="480" y="386" />
     <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.1920.0.1920.1080" x="2558" y="23" />
     <location key="dock-window-1.1920.0.1920.1080" x="2020" y="123" />
     <location key="com.intellij.history.integration.ui.views.SelectionHistoryDialog.0.0.1920.1080" x="100" y="123" />
