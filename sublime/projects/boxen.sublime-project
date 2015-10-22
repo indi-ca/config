@@ -17,6 +17,16 @@
             "name": "Config"
         },
         {
+            "path": "/Users/indika/dev/osx-boxen/puppet",
+            "file_exclude_patterns": [],
+            "name": "Puppet Cook"
+        },
+        {
+            "path": "/Users/indika/dev/box/aws",
+            "file_exclude_patterns": [],
+            "name": "Ansible"
+        },
+        {
             "path": "/Users/indika/dev/osx-boxen/puppet-modules",
             "file_exclude_patterns": [],
             "name": "Puppet Modules"

@@ -1,36 +1,36 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>events</find>
-      <find>abork</find>
-      <find>deletedb</find>
-      <find>format</find>
-      <find>{}</find>
-      <find>s3</find>
-      <find>key</find>
-      <find>self.client</find>
-      <find>raise</find>
-      <find>commit</find>
-      <find>update_cust</find>
-      <find>get_customer_da</find>
-      <find>notifyFinish</find>
-      <find>log_access_record</find>
-      <find>cache_id</find>
-      <find>log_acc</find>
-      <find>log</find>
-      <find>%s</find>
-      <find>process_res</find>
-      <find>Wizardry</find>
-      <find>read</find>
-      <find>74.125.203.189</find>
-      <find>52.2.65.9</find>
-      <find>64.233.189.95</find>
-      <find>191.234.4.50</find>
-      <find>64.233.187.16</find>
-      <find>EOF</find>
-      <find>54.201.112.14</find>
-      <find>52.89.185.5</find>
       <find>118.127.11.210</find>
+      <find>validate</find>
+      <find>runners</find>
+      <find>store.link</find>
+      <find>fake_cach</find>
+      <find>get_free</find>
+      <find>get_ui_id</find>
+      <find>iface</find>
+      <find>child_link</find>
+      <find>events</find>
+      <find>child_link_up</find>
+      <find>_child_link_up</find>
+      <find>startup</find>
+      <find>ipcmd</find>
+      <find>key =</find>
+      <find>test_failover_simp</find>
+      <find>load_c</find>
+      <find>lan</find>
+      <find>bring_up</find>
+      <find>start_man</find>
+      <find>get_uid</find>
+      <find>/networ</find>
+      <find>config</find>
+      <find>LoadBalancedLinkRunner</find>
+      <find>obj = class</find>
+      <find>new_link</find>
+      <find>getoid</find>
+      <find>simplejson</find>
+      <find>engine</find>
+      <find>migration fail</find>
     </findStrings>
     <replaceStrings>
       <replace>userlog</replace>

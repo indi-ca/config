@@ -2,4 +2,6 @@ mailarchive-test
 chive-alt
 chive-test
 lego
+motor
+m
 shan
