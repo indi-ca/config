@@ -1,5 +1,7 @@
-%include ~/internal/nb-devtools/hg/nbhgrc
+%include ~/dev/box/internal/nb-devtools/hg/nbhgrc
 
+[alias]
+whatchanged = status --rev "branch('$1')"
 
 [web]
 cacerts = ~/dev/certificates/nbbdev.crt
@@ -29,6 +31,7 @@ strip =
 largefiles =
 crecord = /Users/indika/dev/tools/crecord/crecord
 histedit =
+transplant =
 
 [pager]
 pager = LESS='FSRX' less

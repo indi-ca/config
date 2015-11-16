@@ -4,4 +4,9 @@ chive-test
 lego
 motor
 m
+blue.nb
+build7
+wsets
 shan
+ray
+bubble

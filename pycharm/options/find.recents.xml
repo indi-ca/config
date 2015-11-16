@@ -1,36 +1,36 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>118.127.11.210</find>
-      <find>validate</find>
-      <find>runners</find>
-      <find>store.link</find>
-      <find>fake_cach</find>
-      <find>get_free</find>
-      <find>get_ui_id</find>
-      <find>iface</find>
-      <find>child_link</find>
-      <find>events</find>
-      <find>child_link_up</find>
-      <find>_child_link_up</find>
-      <find>startup</find>
-      <find>ipcmd</find>
-      <find>key =</find>
-      <find>test_failover_simp</find>
-      <find>load_c</find>
-      <find>lan</find>
-      <find>bring_up</find>
-      <find>start_man</find>
-      <find>get_uid</find>
-      <find>/networ</find>
-      <find>config</find>
-      <find>LoadBalancedLinkRunner</find>
-      <find>obj = class</find>
-      <find>new_link</find>
-      <find>getoid</find>
-      <find>simplejson</find>
-      <find>engine</find>
-      <find>migration fail</find>
+      <find>interfaces/lan/vlans/0</find>
+      <find>DHCp</find>
+      <find>class&quot;: &quot;dhcp&quot;</find>
+      <find>/network/interfaces/0</find>
+      <find>/network/interfaces/lan/vlans/0</find>
+      <find>Dev</find>
+      <find>VoiP</find>
+      <find>pppoe</find>
+      <find>sleep</find>
+      <find>vlans/3</find>
+      <find>get_uid_</find>
+      <find>Imaging</find>
+      <find>107</find>
+      <find>userlog</find>
+      <find>interface</find>
+      <find>etherlink</find>
+      <find>dhcp</find>
+      <find>dhcp_enabled</find>
+      <find>device</find>
+      <find>print</find>
+      <find>cached</find>
+      <find>time.sleep</find>
+      <find>hive_previou</find>
+      <find>netcon_durus_db</find>
+      <find>sitekey</find>
+      <find>migration</find>
+      <find>stp</find>
+      <find>pre</find>
+      <find>migrationtool</find>
+      <find>missing_interfaces_post</find>
     </findStrings>
     <replaceStrings>
       <replace>userlog</replace>

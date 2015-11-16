@@ -7,6 +7,11 @@
             "name": "Netbox"
         },
         {
+            "path": "~/dev/box/safechat",
+            "file_exclude_patterns": [],
+            "name": "Safechat"
+        },
+        {
             "path": "~/dev/box/internal",
             "file_exclude_patterns": [],
             "name": "Internal"
