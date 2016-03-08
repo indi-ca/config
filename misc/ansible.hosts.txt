@@ -2,6 +2,7 @@ mailarchive-test
 chive-alt
 chive-test
 lego
+lego-orig
 motor
 m
 blue.nb
@@ -10,3 +11,6 @@ wsets
 shan
 ray
 bubble
+icaps
+cartman
+oldrel1

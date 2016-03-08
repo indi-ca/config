@@ -4,8 +4,7 @@
 whatchanged = status --rev "branch('$1')"
 
 [web]
-cacerts = ~/dev/certificates/nbbdev.crt
-#cacerts = ~/dev/box/certificates/nb_cacert.pem
+cacerts = ~/dev/box/certificates/nb_cacert.pem
 
 #[hostfingerprints]
 #hg.nb = 03:e7:aa:18:a2:df:55:ed:48:a1:d9:bf:b3:bf:48:7b:22:5a:90:b6
@@ -43,18 +42,13 @@ ignore = ~/.hgignore
 username = ipiyasena
 merge = internal:merge
 
-[paths]
-netbox = https://hg.nb/nbx/netbox
-internal = https://hg.nb/nbx/internal
-safechat = https://hg.nb/nbx/safechat
-
-#[auth]
-#nbx.schemes = https
-#nbx.prefix = hg.bb/nbx
-#nbx.username = ipiyasena
+#[paths]
+#netbox = https://hg.nb/nbx/netbox
+#internal = https://hg.nb/nbx/internal
+#safechat = https://hg.nb/nbx/safechat
 
 [auth]
 nbx.schemes = https
-nbx.prefix = hg.nb/nbx
+nbx.prefix = hg.bb/nbx
 nbx.username = ipiyasena
 
