@@ -12,5 +12,8 @@ shan
 ray
 bubble
 icaps
-cartman
+cloud-test
+cte
+ccs
+winsystest
 oldrel1

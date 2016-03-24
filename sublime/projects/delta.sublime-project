@@ -1,0 +1,20 @@
+{
+	"folders":
+	[
+        {
+            "path": "/Users/indika/dev/box/delta",
+            "file_exclude_patterns": [],
+            "name": "Delta"
+        },
+        {
+            "path": "/Users/indika/dev/box/saber",
+            "file_exclude_patterns": [],
+            "name": "Saber"
+        },
+        {
+            "path": "/Users/indika/dev/tutorials/script-examples",
+            "file_exclude_patterns": [],
+            "name": "Examples"
+        },
+	]
+}

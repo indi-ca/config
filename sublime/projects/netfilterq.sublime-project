@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+        {
+            "path": "/Users/indika/dev/box/tasks/nfqueue",
+            "name": "Oranges",
+        },
+        {
+            "path": "/Users/indika/dev/box/netbox/netfilterqueue",
+            "name": "netfilterqueue",
+        },
+        {
+            "path": "/Users/indika/dev/box/netbox/ngfw",
+            "name": "ngfw",
+        },
+	]
+}

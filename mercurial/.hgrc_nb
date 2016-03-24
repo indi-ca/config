@@ -6,8 +6,9 @@ whatchanged = status --rev "branch('$1')"
 [web]
 cacerts = ~/dev/certificates/nbbdev.crt
 
-#[hostfingerprints]
+[hostfingerprints]
 #hg.nb = 03:e7:aa:18:a2:df:55:ed:48:a1:d9:bf:b3:bf:48:7b:22:5a:90:b6
+hg.nb = 59:ae:65:82:10:13:ca:13:49:32:a3:58:95:6a:73:09:b7:bd:97:f9
 
 [extensions]
 nb = ~/dev/box/internal_nb/nb-devtools/modules/nbhg.py
