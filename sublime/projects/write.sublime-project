@@ -1,37 +1,32 @@
 {
 	"folders":
 	[
-        {
-            "path": "~/dev/box/docs",
-            "name": "Box Docs"
-        },
 		{
-			"path": "~/dev/box/sandbox",
-            "name": "Sandbox"
+			"name": "Box Docs",
+			"path": "/Users/indika/dev/box/docs"
+		},
+		{
+			"name": "Sandbox",
+			"path": "/Users/indika/dev/box/sandbox"
+		},
+		{
+			"path": "/Users/indika/Dropbox/code_library"
+		},
+		{
+			"name": "ZSHArch",
+			"path": "/Users/indika/.zprezto/architectures"
+		},
+		{
+			"name": "Hist",
+			"path": "/Volumes/Container/hist"
+		},
+		{
+			"path": "/Volumes/Cruzer/MacFuse/Creations"
 		},
         {
-            "path": "~/Dropbox/code_library",
+            "path": "/Users/indika/dev/private/ssh",
+            "file_exclude_patterns": ["control"],
+            "name": "Config"
         },
-        {
-            "path": "/Users/indika/.zprezto/architectures",
-            "name": "ZSHArch"
-        },
-        {
-            "path": "/Volumes/Container/hist",
-            "name": "Hist",
-        },
-        {
-            "path": "/Users/indika/dev/sanity/responder",
-            "name": "Sanity Responder",
-        },
-        {
-            "path": "/Users/indika/dev/box/sandbox",
-            "name": "Sandbox",
-        },
-        // {
-        //     "path": "~/.oh-my-zsh",
-        //     "folder_exclude_patterns": ["cache", "custom", "lib", "log", "plugins", "templates", "themes", "tools"],
-        //     "file_exclude_patterns": ["MIT_LICENSE.txt"]
-        // },
 	]
 }

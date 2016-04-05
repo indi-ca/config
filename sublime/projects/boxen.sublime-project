@@ -4,22 +4,22 @@
         {
             "path": "/opt/boxen/repo",
             "file_exclude_patterns": [],
-            "name": "My Boxen"
+            "name": "My Actual Boxen"
         },
         {
             "path": "/Users/indika/dev/tower",
             "file_exclude_patterns": [],
-            "name": "Ansible"
-        },
-        {
-            "path": "/Users/indika/dev/osx-boxen/felho-boxen",
-            "file_exclude_patterns": [],
-            "name": "Felho's Boxen"
+            "name": "Tower"
         },
         {
             "path": "/Users/indika/dev/config",
             "file_exclude_patterns": [],
             "name": "Config"
+        },
+        {
+            "path": "/Users/indika/dev/osx-boxen/felho-boxen",
+            "file_exclude_patterns": [],
+            "name": "Felho's Boxen"
         },
         {
             "path": "/Users/indika/dev/osx-boxen/puppet",

@@ -1,6 +1,3 @@
-mailarchive-test
-chive-alt
-chive-test
 lego
 lego-orig
 motor
@@ -17,3 +14,5 @@ cte
 ccs
 winsystest
 oldrel1
+pdns
+server2

@@ -20,7 +20,9 @@
 
     // { "keys": ["super+alt+e"], "command": "reveal_in_side_bar"},
     { "keys": ["super+1"], "command": "open_sublime_explorer"},
-    { "keys": ["super+ctrl+e"], "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"}},
+
+    // Reveal in finder: TODO: I have no idea why this shortcuts does not work
+    { "keys": ["super+3"], "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"}},
 
 
     { "keys": ["super+w"], "command": "close" },
@@ -51,7 +53,7 @@
     { "keys": ["super+shift+g"], "command": "find_prev" },
     { "keys": ["super+e"], "command": "slurp_find_string" },
     { "keys": ["super+shift+e"], "command": "slurp_replace_string" },
-    { "keys": ["super+alt+f"], "command": "show_panel", "args": {"panel": "find_in_files", "where":"/Users/indika/dev/box/safechat_current/nbwebscan/src/nbwebscan/linkedin,-*.conv,-*.py.orig, -*.json, -*.log"} },
+    { "keys": ["super+alt+f"], "command": "show_panel", "args": {"panel": "find_in_files", "where":"/Users/indika/dev/box/,-*.conv,-*.py.orig, -*.json, -*.log"} },
 
     // Toggling Comments
     { "keys": ["super+\\"], "command": "toggle_comment", "args": { "block": false } },

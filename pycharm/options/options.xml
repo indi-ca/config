@@ -13,7 +13,7 @@
     <property name="PyCharm.initialConfigurationShown" value="true" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
-    <property name="lastTip" value="111" />
+    <property name="lastTip" value="112" />
     <property name="file.colors.enable.non.project" value="494539" />
     <property name="Non-Project Files" value="494539" />
     <property name="OpenOrAttachDialog.OpenMode" value="new" />
@@ -46,5 +46,7 @@
     <property name="sm_test_statistics_table_columnsOrder1" value="1" />
     <property name="sm_test_statistics_table_columnsWidth2" value="75" />
     <property name="sm_test_statistics_table_columnsOrder2" value="2" />
+    <property name="evlsprt3.3" value="15" />
+    <property name="export.settings.path" value="$USER_HOME$/settings-keymap.jar" />
   </component>
 </application>

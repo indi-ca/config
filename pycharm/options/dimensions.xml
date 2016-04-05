@@ -53,6 +53,7 @@
     <location key="VCS.FileHistoryDialog.1920.0.1920.1080" x="128" y="23" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="21" y="210" />
     <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1280.800" x="249" y="205" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.1920.0.1920.1080" x="2172" y="113" />
     <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.1920.0.1920.1200" width="1920" height="1177" />
     <size key="VCS.FileHistoryDialog.1920.0.1920.1200" width="1777" height="1032" />
     <size key="CommitChangelistDialog2.1920.0.1920.1200" width="1920" height="1177" />
@@ -117,6 +118,7 @@
     <size key="GridCell.Tab.1.center.0.0.1920.1080" width="960" height="1013" />
     <size key="GridCell.Tab.1.right.0.0.1920.1080" width="960" height="1013" />
     <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="960" height="1013" />
+    <size key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.1920.0.1920.1080" width="727" height="593" />
     <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="6" />
     <extendedState key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" state="0" />
     <extendedState key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" state="300" />
