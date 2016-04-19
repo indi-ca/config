@@ -12,6 +12,11 @@
             "name": "Safechat"
         },
         {
+            "path": "~/dev/box/cloud",
+            "file_exclude_patterns": [],
+            "name": "Cloud"
+        },
+        {
             "path": "~/dev/box/internal",
             "file_exclude_patterns": [],
             "name": "Internal"

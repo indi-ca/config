@@ -16,3 +16,9 @@ winsystest
 oldrel1
 pdns
 server2
+server3
+
+cloudrel-icaps
+cloudrel-ccs
+cloudrel-cte
+cloudrel-test

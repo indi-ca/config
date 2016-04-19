@@ -12,6 +12,11 @@
             "name": "Tower"
         },
         {
+            "path": "/Users/indika/dev/osx-boxen/ansible-examples",
+            "file_exclude_patterns": [],
+            "name": "Ansible Examples"
+        },
+        {
             "path": "/Users/indika/dev/config",
             "file_exclude_patterns": [],
             "name": "Config"
@@ -21,20 +26,20 @@
             "file_exclude_patterns": [],
             "name": "Felho's Boxen"
         },
-        {
-            "path": "/Users/indika/dev/osx-boxen/puppet",
-            "file_exclude_patterns": [],
-            "name": "Puppet Cook"
-        },
-        {
-            "path": "/Users/indika/dev/osx-boxen/puppet-modules",
-            "file_exclude_patterns": [],
-            "name": "Puppet Modules"
-        },
-        {
-            "path": "/Users/indika/dev/osx-boxen/mackup",
-            "file_exclude_patterns": [],
-            "name": "mackup"
-        },
+        // {
+        //     "path": "/Users/indika/dev/osx-boxen/puppet",
+        //     "file_exclude_patterns": [],
+        //     "name": "Puppet Cook"
+        // },
+        // {
+        //     "path": "/Users/indika/dev/osx-boxen/puppet-modules",
+        //     "file_exclude_patterns": [],
+        //     "name": "Puppet Modules"
+        // },
+        // {
+        //     "path": "/Users/indika/dev/osx-boxen/mackup",
+        //     "file_exclude_patterns": [],
+        //     "name": "mackup"
+        // },
     ]
 }
