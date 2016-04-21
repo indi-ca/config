@@ -35,7 +35,7 @@
         <option name="PATH_TO_PPK" value="" />
       </value>
     </option>
-    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+    <option name="PATH_TO_PASSWORD_FILE" />
     <option name="TIMEOUT" value="10" />
     <option name="MAKE_CHECKED_OUT_FILES_READONLY" value="false" />
     <option name="CHECKOUT_PRUNE_EMPTY_DIRECTORIES" value="true" />
@@ -46,37 +46,5 @@
     <option name="DO_OUTPUT" value="false" />
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
-  </component>
-  <component name="PyCodeInsightSettings">
-    <option name="RENAME_PARAMETERS_IN_HIERARCHY" value="false" />
-  </component>
-  <component name="PyTestFrameworkService">
-    <option name="SDK_TO_PYTEST">
-      <map>
-        <entry key="$USER_HOME$/.virtualenvs/mailarchive/bin/python" value="true" />
-        <entry key="$USER_HOME$/.virtualenvs/netbox/bin/python" value="true" />
-        <entry key="/opt/python/3.4.1/bin/python3.4" value="false" />
-        <entry key="ssh://root@192.168.0.65:22/usr/bin/python" value="false" />
-        <entry key="ssh://root@lego.safenetbox.biz:4/usr/bin/python" value="true" />
-      </map>
-    </option>
-    <option name="SDK_TO_NOSETEST">
-      <map>
-        <entry key="$USER_HOME$/.virtualenvs/mailarchive/bin/python" value="false" />
-        <entry key="$USER_HOME$/.virtualenvs/netbox/bin/python" value="false" />
-        <entry key="/opt/python/3.4.1/bin/python3.4" value="false" />
-        <entry key="ssh://root@192.168.0.65:22/usr/bin/python" value="false" />
-        <entry key="ssh://root@lego.safenetbox.biz:4/usr/bin/python" value="false" />
-      </map>
-    </option>
-    <option name="SDK_TO_ATTEST">
-      <map>
-        <entry key="$USER_HOME$/.virtualenvs/mailarchive/bin/python" value="false" />
-        <entry key="$USER_HOME$/.virtualenvs/netbox/bin/python" value="false" />
-        <entry key="/opt/python/3.4.1/bin/python3.4" value="false" />
-        <entry key="ssh://root@192.168.0.65:22/usr/bin/python" value="false" />
-        <entry key="ssh://root@lego.safenetbox.biz:4/usr/bin/python" value="false" />
-      </map>
-    </option>
   </component>
 </application>

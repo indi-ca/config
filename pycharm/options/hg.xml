@@ -1,10 +1,5 @@
 <application>
   <component name="HgGlobalSettings">
-    <option name="myHgExecutable" value="$USER_HOME$/.virtualenvs/netbox/bin/hg" />
-    <option name="myRememberedUserNames">
-      <map>
-        <entry key="hg.nb/nbx/netbox" value="ipiyasena" />
-      </map>
-    </option>
+    <option name="myHgExecutable" value="/opt/boxen/pyenv/shims/hg" />
   </component>
 </application>
