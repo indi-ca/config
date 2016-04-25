@@ -1,0 +1,8 @@
+<templateSet group="Python">
+  <template name="pydev" value="import pydevd&#10;pydevd.settrace('10.50.10.10', port=21001, suspend=False)" description="Python Dev" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+      <option name="Python_Class" value="true" />
+    </context>
+  </template>
+</templateSet>
