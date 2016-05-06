@@ -1,74 +1,83 @@
 <application>
   <component name="StatisticsApplicationUsages">
-    <group name="run-configuration-type-temp">
-      <project id="netbox" values="PythonConfigurationType" collectionTime="1460961111378" />
-    </group>
-    <group name="jdbc-datasource">
-      <project id="netbox" values="PostgreSQL/8.4.2" collectionTime="1460961111587" />
-    </group>
-    <group name="Puppet">
-      <project id="safechat_default" values="Language version  Puppet 3.X,Textual search  MAY,Non-default modulepath  false,Git sync enabled  true,Environments  single" collectionTime="1461236526987" />
-    </group>
-    <group name="vcs">
-      <project id="safechat_default" values="hg4idea" collectionTime="1461236526961" />
-      <project id="DNS" values="hg4idea" collectionTime="1460935331074" />
-      <project id="meta" values="Git" collectionTime="1461246264277" />
-      <project id="netbox" values="hg4idea" collectionTime="1460961111376" />
-    </group>
     <group name="JavaScript versions">
-      <project id="safechat_default" values="ECMAScript 5.1" collectionTime="1461236526986" />
+      <project id="safechat_default" values="ECMAScript 5.1" collectionTime="1462229943546" />
       <project id="DNS" values="ECMAScript 5.1" collectionTime="1460935331351" />
-      <project id="meta" values="ECMAScript 5.1" collectionTime="1461246264551" />
-      <project id="netbox" values="ECMAScript 5.1" collectionTime="1460961111588" />
-    </group>
-    <group name="run-configuration-type">
-      <project id="safechat_default" values="PyRemoteDebugConfigurationType,PythonConfigurationType" collectionTime="1461236526962" />
-      <project id="DNS" values="PyRemoteDebugConfigurationType" collectionTime="1460935331076" />
-      <project id="netbox" values="PythonConfigurationType,PyRemoteDebugConfigurationType" collectionTime="1460961111378" />
-    </group>
-    <group name="Git">
-      <project id="safechat_default" values="config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.force.push.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1461236526982" />
-      <project id="DNS" values="config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.warn.about.detached.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.save.policy.STASH" collectionTime="1460935331178" />
-      <project id="meta" values="config.ssh.enabled,data.local.branches.count.1,config.save.policy.STASH,data.remotes.in.project.0,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,data.remote.branches.count.0,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled" collectionTime="1461246264354" />
-      <project id="netbox" values="config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.force.push.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED" collectionTime="1460961111403" />
-    </group>
-    <group name="jdbc-driver">
-      <project id="netbox" values="org.postgresql.Driver" collectionTime="1460961111587" />
-    </group>
-    <group name="py-interpreter">
-      <project id="meta" values="Python 2.7.10" collectionTime="1461246264345" />
-      <project id="DNS" values="Python 2.7.10,Python 2.7.10,Python 2.7.10" collectionTime="1460935331168" />
-    </group>
-    <group name="file-type">
-      <project id="safechat_default" values="Images,HTML,PATCH,Native,UNKNOWN,Puppet,Python,XML,Jinja2,PLAIN_TEXT,JSON,JavaScript" collectionTime="1461236526982" />
-      <project id="DNS" values="PATCH,Python,UNKNOWN,Jinja2,PLAIN_TEXT,JSX Harmony,Native,Perl,Locale,YAML,ReST,ARCHIVE,SCSS,Images,SQL,JavaScript,C++,HTML,XML,Ini,ESLint,CSS,JSON,Cython" collectionTime="1460935331154" />
-      <project id="meta" values="PLAIN_TEXT,Python" collectionTime="1461246264334" />
-      <project id="netbox" values="ARCHIVE,Python,JSON,PLAIN_TEXT,C++,Ini,Jinja2,SQL,XML,Native,UNKNOWN,HTML,JavaScript,CSS,Images,Haskell" collectionTime="1460961111393" />
+      <project id="meta" values="ECMAScript 5.1" collectionTime="1461679978216" />
+      <project id="netbox" values="ECMAScript 5.1" collectionTime="1462514721058" />
     </group>
     <group name="module type">
-      <project id="safechat_default" values="PYTHON_MODULE" collectionTime="1461236526961" />
+      <project id="safechat_default" values="PYTHON_MODULE" collectionTime="1462229943328" />
       <project id="DNS" values="PYTHON_MODULE" collectionTime="1460935331075" />
-      <project id="meta" values="PYTHON_MODULE" collectionTime="1461246264277" />
-      <project id="netbox" values="PYTHON_MODULE" collectionTime="1460961111377" />
+      <project id="meta" values="PYTHON_MODULE" collectionTime="1461679978117" />
+      <project id="netbox" values="PYTHON_MODULE" collectionTime="1462514720650" />
+    </group>
+    <group name="vcs">
+      <project id="safechat_default" values="hg4idea,Git" collectionTime="1462229943328" />
+      <project id="DNS" values="hg4idea" collectionTime="1460935331074" />
+      <project id="meta" values="Git" collectionTime="1461679978117" />
+      <project id="netbox" values="hg4idea" collectionTime="1462514720649" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="safechat_default" values="PythonConfigurationType,PyRemoteDebugConfigurationType,tests.py.test" collectionTime="1462229943328" />
+      <project id="DNS" values="PyRemoteDebugConfigurationType" collectionTime="1460935331076" />
+      <project id="meta" values="tests.py.test" collectionTime="1461679978117" />
+      <project id="netbox" values="PythonConfigurationType,PyRemoteDebugConfigurationType" collectionTime="1462514720652" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="safechat_default" values="PythonConfigurationType" collectionTime="1462229943328" />
+      <project id="netbox" values="PythonConfigurationType" collectionTime="1462514720652" />
+    </group>
+    <group name="file-type">
+      <project id="safechat_default" values="Ini,Python,Images,YAML,HTML,UNKNOWN,XML,JSON,Jinja2,JavaScript,Native,PLAIN_TEXT" collectionTime="1462229943354" />
+      <project id="DNS" values="PLAIN_TEXT,JSX Harmony,Images,JSON,HTML,Ini,Perl,Cython,Native,PATCH,SQL,YAML,CSS,UNKNOWN,ARCHIVE,C++,ESLint,JavaScript,XML,ReST,SCSS,Python,Jinja2,Locale" collectionTime="1460935331154" />
+      <project id="meta" values="PLAIN_TEXT,HTML,Python,JSON" collectionTime="1461679978129" />
+      <project id="netbox" values="C++,UNKNOWN,PLAIN_TEXT,CSS,Haskell,Images,XML,Jinja2,Ini,ARCHIVE,JavaScript,Native,JSON,Python,SQL,HTML" collectionTime="1462514720692" />
+    </group>
+    <group name="jdbc-datasource">
+      <project id="netbox" values="PostgreSQL/8.4.2" collectionTime="1462514721052" />
+    </group>
+    <group name="py-packages">
+      <project id="meta" values="requests,pytest,pytz,slacker,simplejson,click" collectionTime="1461679978209" />
+      <project id="safechat_default" values="requests,click,slacker,cssselect,pytest,pytz,simplejson,lxml" collectionTime="1462229943544" />
+    </group>
+    <group name="jdbc-driver">
+      <project id="netbox" values="org.postgresql.Driver" collectionTime="1462514721052" />
+    </group>
+    <group name="py-interpreter">
+      <project id="meta" values="Python 2.7.8 [virtualenv]" collectionTime="1461679978130" />
+      <project id="DNS" values="Python 2.7.10,Python 2.7.10,Python 2.7.10" collectionTime="1460935331168" />
+      <project id="safechat_default" values="Python 2.7.8 [virtualenv],Python 2.7.8" collectionTime="1462229943355" />
+      <project id="netbox" values="Python 2.7.8" collectionTime="1462514720718" />
     </group>
     <group name="javaScript Scope Usages">
-      <project id="safechat_default" values="Project,Project" collectionTime="1461236526986" />
+      <project id="safechat_default" values="Project,Project" collectionTime="1462229943546" />
       <project id="DNS" values="Project,Project" collectionTime="1460935331351" />
-      <project id="meta" values="Project,Project" collectionTime="1461246264551" />
-      <project id="netbox" values="Project,Project" collectionTime="1460961111588" />
+      <project id="meta" values="Project,Project" collectionTime="1461679978216" />
+      <project id="netbox" values="Project,Project" collectionTime="1462514721057" />
+    </group>
+    <group name="Git">
+      <project id="safechat_default" values="data.local.branches.count.1,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.save.policy.STASH,data.remote.branches.count.0,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.0,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.force.push.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1462229943545" />
+      <project id="DNS" values="config.ssh.enabled,config.force.push.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled" collectionTime="1460935331178" />
+      <project id="meta" values="config.warn.about.detached.enabled,config.push.autoupdate.disabled,data.remote.branches.count.0,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,data.local.branches.count.1,config.ssh.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,data.remotes.in.project.0,config.warn.about.crlf.enabled" collectionTime="1461679978209" />
+      <project id="netbox" values="config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.ssh.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled" collectionTime="1462514720728" />
     </group>
   </component>
   <component name="UsageTrigger">
     <counts>
       <entry feature="AbstractNewProjectStep.Pure Python" count="1" />
-      <entry feature="CreateFile.CreateFileAction" count="10" />
-      <entry feature="execute.PyRemoteDebugConfigurationType.Debug" count="41" />
+      <entry feature="CreateFile.CreateFileAction" count="17" />
+      <entry feature="execute.PyRemoteDebugConfigurationType.Debug" count="51" />
+      <entry feature="execute.PythonConfigurationType.Debug" count="5" />
+      <entry feature="execute.tests.Debug" count="11" />
+      <entry feature="execute.tests.Run" count="9" />
       <entry feature="ide.settings.Code_Style" count="1" />
-      <entry feature="ide.settings.Live_Templates" count="2" />
+      <entry feature="ide.settings.Live_Templates" count="4" />
       <entry feature="ide.settings.Mercurial" count="1" />
       <entry feature="ide.settings.Plugins" count="1" />
-      <entry feature="ide.settings.Project_Interpreter" count="1" />
-      <entry feature="ideaapp.started" count="11" />
+      <entry feature="ide.settings.Project_Interpreter" count="5" />
+      <entry feature="ide.settings.Version_Control" count="1" />
+      <entry feature="ideaapp.started" count="13" />
       <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="1" />
     </counts>
   </component>

@@ -1,5 +1,7 @@
 lego
 lego-orig
+l
+
 motor
 m
 blue.nb
@@ -22,3 +24,5 @@ cloudrel-icaps
 cloudrel-ccs
 cloudrel-cte
 cloudrel-test
+
+dns-test

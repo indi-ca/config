@@ -52,3 +52,8 @@ nbx.schemes = https
 nbx.prefix = hg.bb/nbx
 nbx.username = ipiyasena
 
+[auth]
+nbx.schemes = https
+nbx.prefix = hg.nb/nbx
+nbx.username = ipiyasena
+
