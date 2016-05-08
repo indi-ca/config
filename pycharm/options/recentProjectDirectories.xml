@@ -2,6 +2,7 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/Dropbox/Projects/meta" />
         <option value="$USER_HOME$/dev/box/netbox" />
         <option value="$USER_HOME$/dev/box/safechat" />
         <option value="$USER_HOME$/dev/box/mailarchive" />
@@ -14,7 +15,7 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/dev/box/netbox" />
+        <option value="$USER_HOME$/Dropbox/Projects/meta" />
       </list>
     </option>
     <option name="names">
@@ -23,6 +24,21 @@
         <entry key="$USER_HOME$/dev/box/safechat" value="safechat_default, src" />
       </map>
     </option>
-    <option name="lastPath" value="$USER_HOME$/dev/box/netbox" />
+    <option name="lastPath" value="$USER_HOME$/Dropbox/Projects/meta" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Dropbox/Projects/meta">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-145.844" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1462625941870" />
+              <option name="buildTimestamp" value="1460037600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </application>

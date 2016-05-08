@@ -33,6 +33,7 @@
     <jdk version="2">
       <name value="Remote Python 2.7.5 (ssh://root@lego.safenetbox.biz:4/usr/bin/python)" />
       <type value="Python SDK" />
+      <version value="undefined" />
       <homePath value="ssh://root@lego.safenetbox.biz:4/usr/bin/python" />
       <roots>
         <classPath>
@@ -44,7 +45,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional HOST="lego.safenetbox.biz" PORT="4" ANONYMOUS="false" USERNAME="root" PASSWORD="" PRIVATE_KEY_FILE="$USER_HOME$/.ssh/id_rsa_vm" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="true" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/root/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" />
+      <additional HOST="lego.safenetbox.biz" PORT="4" ANONYMOUS="false" USERNAME="root" PASSWORD="" PRIVATE_KEY_FILE="$USER_HOME$/.ssh/id_rsa_vm" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="true" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/root/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="undefined" />
     </jdk>
     <jdk version="2">
       <name value="Remote Python 2.7.5 (ssh://root@192.168.0.65:22/usr/bin/python)" />
@@ -67,7 +68,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional HOST="192.168.0.65" PORT="22" ANONYMOUS="false" USERNAME="root" PASSWORD="" PRIVATE_KEY_FILE="$USER_HOME$/.ssh/id_rsa_vm" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="true" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/root/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="">
+      <additional HOST="192.168.0.65" PORT="22" ANONYMOUS="false" USERNAME="root" PASSWORD="" PRIVATE_KEY_FILE="$USER_HOME$/.ssh/id_rsa_vm" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="true" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/root/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
         <PathMappingSettings>
           <option name="pathMappings">
             <list>
@@ -152,6 +153,32 @@
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
             <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/python_stubs/1856214907" />
             <root type="simple" url="file://$USER_HOME$/dev/box/mailarchive/mailrelay/src" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 virtualenv at ~/.virtualenvs/meta" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="$USER_HOME$/.virtualenvs/meta/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/meta/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/meta/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///opt/boxen/pyenv/versions/2.7.10/lib/python2.7" />
+            <root type="simple" url="file:///opt/boxen/pyenv/versions/2.7.10/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///opt/boxen/pyenv/versions/2.7.10/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///opt/boxen/pyenv/versions/2.7.10/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///opt/boxen/pyenv/versions/2.7.10/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/meta/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/-424261285" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
           </root>
         </classPath>
         <sourcePath>

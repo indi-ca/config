@@ -13,17 +13,14 @@
     <property name="PyCharm.initialConfigurationShown" value="true" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
-    <property name="lastTip" value="112" />
-    <property name="file.colors.enable.non.project" value="494539" />
-    <property name="Non-Project Files" value="494539" />
+    <property name="lastTip" value="115" />
     <property name="OpenOrAttachDialog.OpenMode" value="new" />
     <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/dev/box/netbox/nbwebobj/src&#10;/Users/indika/dev/box/netbox/nbicap/src&#10;/Users/indika/dev/box/netbox/ytcache/src&#10;/Users/indika/dev/box/mailarchive/mailrelay/bin&#10;/Users/indika/dev/box/mailarchive/mailrelay/src&#10;/Users/indika/dev/box/netbox/nblog/src&#10;/Users/indika/dev/box/mailarchive/mailarchive/bin&#10;/Users/indika/dev/box/mailarchive/mailarchive/src&#10;/Users/indika/.ssh/id_rsa_vm&#10;/Users/indika/dev/box/netbox/winrip/src&#10;/Users/indika/dev/box/netbox/hive/src&#10;/Users/indika/dev/box/netbox/nbtinc/src&#10;/Users/indika/dev/box/netbox/netcon/tests&#10;/Users/indika/dev/box/netbox/netcon/src&#10;/Users/indika/dev/box/netbox/winripclient/src&#10;/Users/indika/dev/box/netbox/mslyncchat/src&#10;/Users/indika/dev/box/netbox/mslync/src&#10;/Users/indika/dev/box/safechat/nbarchive/src&#10;/Users/indika/dev/box/netbox/py-nb/src&#10;/Users/indika/dev/box/netbox/py-nb/tests&#10;/Users/indika/dev/box/netbox/netcon/nbdb.d&#10;/Users/indika/dev/box/netbox/TSUI&#10;/Users/indika/dev/box/safechat/nbwebscan/src&#10;/Users/indika/dev/box/netbox/ngfw/src" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/.virtualenvs/meta/bin/python&#10;/Users/indika/Dropbox/Projects/meta/language/duolingo/words.py&#10;/Users/indika/Dropbox/Projects/meta&#10;/Users/indika/dev/box/netbox/nbwebobj/src&#10;/Users/indika/dev/box/netbox/nbicap/src&#10;/Users/indika/dev/box/netbox/ytcache/src&#10;/Users/indika/dev/box/mailarchive/mailrelay/bin&#10;/Users/indika/dev/box/mailarchive/mailrelay/src&#10;/Users/indika/dev/box/netbox/nblog/src&#10;/Users/indika/dev/box/mailarchive/mailarchive/bin&#10;/Users/indika/dev/box/mailarchive/mailarchive/src&#10;/Users/indika/.ssh/id_rsa_vm&#10;/Users/indika/dev/box/netbox/winrip/src&#10;/Users/indika/dev/box/netbox/hive/src&#10;/Users/indika/dev/box/netbox/nbtinc/src&#10;/Users/indika/dev/box/netbox/netcon/tests&#10;/Users/indika/dev/box/netbox/netcon/src&#10;/Users/indika/dev/box/netbox/winripclient/src&#10;/Users/indika/dev/box/netbox/mslyncchat/src&#10;/Users/indika/dev/box/netbox/mslync/src&#10;/Users/indika/dev/box/safechat/nbarchive/src&#10;/Users/indika/dev/box/netbox/py-nb/src&#10;/Users/indika/dev/box/netbox/py-nb/tests&#10;/Users/indika/dev/box/netbox/netcon/nbdb.d&#10;/Users/indika/dev/box/netbox/TSUI&#10;/Users/indika/dev/box/safechat/nbwebscan/src&#10;/Users/indika/dev/box/netbox/ngfw/src" />
     <property name="FindSplitterProportion" value="0.25" />
     <property name="null.splitter" value="0.3" />
     <property name="ShowDocumentationInToolWindow" value="true" />
-    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.5" />
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.43376866" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.4480712" />
     <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="true" />
     <property name="MoveFile.OpenInEditor" value="true" />
     <property name="Copy.OpenInEditor" value="true" />
@@ -31,9 +28,7 @@
     <property name="power.save.mode" value="false" />
     <property name="settings.code.style.selected.tab.Python" value="Tabs and Indents" />
     <property name="KEYMAP" value="bookmark" />
-    <property name="ExpandEnvironmentPanel" value="true" />
     <property name="ExpandBeforeRunStepsPanel" value="false" />
-    <property name="RunConfigurable.dividerProportion" value="0.3" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -48,5 +43,6 @@
     <property name="sm_test_statistics_table_columnsOrder2" value="2" />
     <property name="evlsprt3.3" value="15" />
     <property name="export.settings.path" value="$USER_HOME$/settings-keymap.jar" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
   </component>
 </application>
