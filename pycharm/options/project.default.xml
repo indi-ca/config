@@ -11,11 +11,11 @@
         <ConfirmationsSetting value="0" id="Add" />
         <ConfirmationsSetting value="0" id="Remove" />
       </component>
-      <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7.10 virtualenv at ~/.virtualenvs/meta" project-jdk-type="Python SDK" />
+      <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7.8 (/opt/python/2.7.8/bin/python)" project-jdk-type="Python SDK" />
       <component name="PropertiesComponent">
         <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-        <property name="last_opened_file_path" value="$USER_HOME$/.virtualenvs/meta/bin/python" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
+        <property name="last_opened_file_path" value="/opt/python/2.7.8/bin/python" />
       </component>
     </defaultProject>
   </component>

@@ -1,47 +1,40 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>interfaces/lan/vlans/0</find>
-      <find>DHCp</find>
-      <find>class&quot;: &quot;dhcp&quot;</find>
-      <find>/network/interfaces/0</find>
-      <find>/network/interfaces/lan/vlans/0</find>
-      <find>Dev</find>
-      <find>VoiP</find>
-      <find>pppoe</find>
-      <find>sleep</find>
-      <find>vlans/3</find>
-      <find>get_uid_</find>
-      <find>Imaging</find>
-      <find>107</find>
-      <find>userlog</find>
-      <find>interface</find>
-      <find>etherlink</find>
-      <find>dhcp</find>
-      <find>dhcp_enabled</find>
-      <find>device</find>
-      <find>print</find>
-      <find>cached</find>
-      <find>time.sleep</find>
-      <find>hive_previou</find>
-      <find>netcon_durus_db</find>
-      <find>sitekey</find>
-      <find>migration</find>
-      <find>stp</find>
-      <find>pre</find>
-      <find>migrationtool</find>
-      <find>missing_interfaces_post</find>
+      <find>DirectMessageChunk</find>
+      <find>chunk_key</find>
+      <find>sendalert</find>
+      <find>onacce</find>
+      <find>meta_regex_key</find>
+      <find>meta_tree_key</find>
+      <find>onaccessdict</find>
+      <find>_should_run_profiling</find>
+      <find>cache_folder</find>
+      <find>get_client</find>
+      <find>NBWEBSCAN</find>
+      <find>chunk_tree_lines</find>
+      <find>SafechatContainerConsumer</find>
+      <find>consumer</find>
+      <find>regist</find>
+      <find>registry</find>
+      <find>stats</find>
+      <find>handler</find>
+      <find>regex</find>
+      <find>meta-reg</find>
+      <find>meta_TREE</find>
+      <find>starting</find>
+      <find>a</find>
+      <find>collector</find>
+      <find>chain</find>
+      <find>matching_url_pattern</find>
+      <find>create_d</find>
+      <find>get_ui_class</find>
+      <find>ui_class</find>
+      <find>bridge</find>
     </findStrings>
     <replaceStrings>
-      <replace>userlog</replace>
-      <replace>755</replace>
-      <replace>NetconVersioningAssistant</replace>
-      <replace>&quot;</replace>
-      <replace>backdate</replace>
-      <replace>csv</replace>
-      <replace>LinkedInMessagingReadChunk</replace>
-      <replace>LinkedInMessagingSendChunk</replace>
-      <replace>LogParser</replace>
+      <replace>META_REGEX_KEY</replace>
+      <replace>META_TREE_KEY</replace>
     </replaceStrings>
   </component>
 </application>

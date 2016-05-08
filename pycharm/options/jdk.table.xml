@@ -1,9 +1,9 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="Python 2.7.6 (/usr/bin/python)" />
+      <name value="Python 2.7.10 (/usr/bin/python)" />
       <type value="Python SDK" />
-      <version value="Python 2.7.6" />
+      <version value="Python 2.7.10" />
       <homePath value="/usr/bin/python" />
       <roots>
         <classPath>
@@ -17,11 +17,8 @@
             <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
             <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
             <root type="simple" url="file:///Library/Python/2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/348993582" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/python_stubs/348993582" />
-            <root type="simple" url="file://$USER_HOME$/dev/box/internal/nb-devtools/modules" />
-            <root type="simple" url="file://$USER_HOME$/dev/box/mailarchive/mailrelay/src" />
-            <root type="simple" url="file:///Library/Python/2.7/site-packages/pip-7.1.2-py2.7.egg" />
           </root>
         </classPath>
         <sourcePath>
@@ -31,77 +28,22 @@
       <additional />
     </jdk>
     <jdk version="2">
-      <name value="Remote Python 2.7.5 (ssh://root@lego.safenetbox.biz:4/usr/bin/python)" />
+      <name value="Python 2.7.8 (/opt/python/2.7.8/bin/python)" />
       <type value="Python SDK" />
-      <version value="undefined" />
-      <homePath value="ssh://root@lego.safenetbox.biz:4/usr/bin/python" />
+      <version value="Python 2.7.8" />
+      <homePath value="/opt/python/2.7.8/bin/python" />
       <roots>
         <classPath>
           <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/python_stubs/-1968975181" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional HOST="lego.safenetbox.biz" PORT="4" ANONYMOUS="false" USERNAME="root" PASSWORD="" PRIVATE_KEY_FILE="$USER_HOME$/.ssh/id_rsa_vm" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="true" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/root/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="undefined" />
-    </jdk>
-    <jdk version="2">
-      <name value="Remote Python 2.7.5 (ssh://root@192.168.0.65:22/usr/bin/python)" />
-      <type value="Python SDK" />
-      <version value="Python 2.7.5" />
-      <homePath value="ssh://root@192.168.0.65:22/usr/bin/python" />
-      <roots>
-        <classPath>
-          <root type="composite">
+            <root type="simple" url="file:///opt/python/2.7.8/lib/python2.7" />
+            <root type="simple" url="file:///opt/python/2.7.8/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///opt/python/2.7.8/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///opt/python/2.7.8/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///opt/python/2.7.8/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///opt/python/2.7.8/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///opt/python/2.7.8/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/1688540822" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/python_stubs/2056612156" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/2056612156/1646051593" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/2056612156/704340502" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/2056612156/-289277395" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/2056612156/-1458322845" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/remote_sources/2056612156/918732847" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional HOST="192.168.0.65" PORT="22" ANONYMOUS="false" USERNAME="root" PASSWORD="" PRIVATE_KEY_FILE="$USER_HOME$/.ssh/id_rsa_vm" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="true" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/root/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
-        <PathMappingSettings>
-          <option name="pathMappings">
-            <list>
-              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/2056612156/1646051593" remote-root="/usr/lib64/python2.7" />
-              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/2056612156/704340502" remote-root="/usr/lib64/python2.7/plat-linux2" />
-              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/2056612156/-289277395" remote-root="/usr/lib64/python2.7/site-packages" />
-              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/2056612156/-1458322845" remote-root="/usr/lib64/python2.7/site-packages/gtk-2.0" />
-              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm40/remote_sources/2056612156/918732847" remote-root="/usr/lib/python2.7/site-packages" />
-            </list>
-          </option>
-        </PathMappingSettings>
-      </additional>
-    </jdk>
-    <jdk version="2">
-      <name value="Python 2.7.10 virtualenv at ~/.virtualenvs/netbox" />
-      <type value="Python SDK" />
-      <version value="Python 2.7.10" />
-      <homePath value="$USER_HOME$/.virtualenvs/netbox/bin/python" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/dev/box/internal/nb-devtools/modules" />
-            <root type="simple" url="file://$USER_HOME$/.virtualenvs/netbox/lib/python2.7" />
-            <root type="simple" url="file://$USER_HOME$/.virtualenvs/netbox/lib/python2.7/lib-dynload" />
-            <root type="simple" url="file:///opt/boxen/homebrew/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-            <root type="simple" url="file:///opt/boxen/homebrew/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-            <root type="simple" url="file:///opt/boxen/homebrew/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-            <root type="simple" url="file:///opt/boxen/homebrew/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-            <root type="simple" url="file:///opt/boxen/homebrew/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-            <root type="simple" url="file://$USER_HOME$/.virtualenvs/netbox/lib/python2.7/site-packages" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/python_stubs/-689625742" />
-            <root type="simple" url="file://$USER_HOME$/dev/box/mailarchive/mailrelay/src" />
           </root>
         </classPath>
         <sourcePath>
@@ -111,48 +53,23 @@
       <additional />
     </jdk>
     <jdk version="2">
-      <name value="Python 3.4.1 (/opt/python/3.4.1/bin/python3.4)" />
+      <name value="Python 2.7.8 virtualenv at ~/.virtualenvs/meta" />
       <type value="Python SDK" />
-      <version value="Python 3.4.1" />
-      <homePath value="/opt/python/3.4.1/bin/python3.4" />
+      <version value="Python 2.7.8" />
+      <homePath value="$USER_HOME$/.virtualenvs/meta/bin/python" />
       <roots>
         <classPath>
           <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/dev/box/internal/nb-devtools/modules" />
-            <root type="simple" url="file:///opt/python/3.4.1/lib/python3.4" />
-            <root type="simple" url="file:///opt/python/3.4.1/lib/python3.4/plat-darwin" />
-            <root type="simple" url="file:///opt/python/3.4.1/lib/python3.4/lib-dynload" />
-            <root type="simple" url="file:///opt/python/3.4.1/lib/python3.4/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/meta/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/meta/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///opt/boxen/pyenv/versions/2.7.8/lib/python2.7" />
+            <root type="simple" url="file:///opt/boxen/pyenv/versions/2.7.8/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///opt/boxen/pyenv/versions/2.7.8/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///opt/boxen/pyenv/versions/2.7.8/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///opt/boxen/pyenv/versions/2.7.8/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/meta/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/-424261285" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/python_stubs/-1909653798" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 2.7.10 virtualenv at ~/.virtualenvs/mailarchive" />
-      <type value="Python SDK" />
-      <version value="Python 2.7.10" />
-      <homePath value="$USER_HOME$/.virtualenvs/mailarchive/bin/python" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/dev/box/internal/nb-devtools/modules" />
-            <root type="simple" url="file://$USER_HOME$/.virtualenvs/mailarchive/lib/python2.7" />
-            <root type="simple" url="file://$USER_HOME$/.virtualenvs/mailarchive/lib/python2.7/lib-dynload" />
-            <root type="simple" url="file:///opt/boxen/homebrew/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-            <root type="simple" url="file:///opt/boxen/homebrew/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-            <root type="simple" url="file:///opt/boxen/homebrew/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-            <root type="simple" url="file:///opt/boxen/homebrew/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-            <root type="simple" url="file:///opt/boxen/homebrew/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-            <root type="simple" url="file://$USER_HOME$/.virtualenvs/mailarchive/lib/python2.7/site-packages" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/python_stubs/1856214907" />
-            <root type="simple" url="file://$USER_HOME$/dev/box/mailarchive/mailrelay/src" />
           </root>
         </classPath>
         <sourcePath>
