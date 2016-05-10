@@ -2,7 +2,6 @@
   <component name="FileBasedIndex">
     <option name="registeredIndices">
       <list>
-        <option value="Scss.function" />
         <option value="Scss.placeholder.selector" />
         <option value="Scss.variable" />
         <option value="Less.variables" />
@@ -19,6 +18,7 @@
         <option value="js.symbol.index2" />
         <option value="JS.class.implements" />
         <option value="JS.class.super" />
+        <option value="ts.external.module.index" />
         <option value="js.element.qualifiedName" />
         <option value="js.qualified.shortName" />
         <option value="Css.custom.property" />
@@ -49,7 +49,6 @@
         <option value="angularjs.module.index" />
         <option value="angularjs.controller.index" />
         <option value="angularjs.directives.index" />
-        <option value="ts.external.module.index" />
         <option value="puppet.text.search.index" />
         <option value="puppet.resource" />
         <option value="puppet.class" />
@@ -57,6 +56,7 @@
         <option value="Stylus.mixins" />
         <option value="Stylus.variables" />
         <option value="Scss.mixin" />
+        <option value="Scss.function" />
       </list>
     </option>
   </component>

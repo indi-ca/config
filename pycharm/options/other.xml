@@ -51,7 +51,7 @@
     <option name="SDK_TO_PYTEST">
       <map>
         <entry key="$USER_HOME$/.virtualenvs/meta/bin/python" value="true" />
-        <entry key="/opt/python/2.7.8/bin/python" value="true" />
+        <entry key="/opt/python/2.7.8/bin/python" value="false" />
         <entry key="/usr/bin/python" value="false" />
       </map>
     </option>

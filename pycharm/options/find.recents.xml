@@ -1,11 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>DirectMessageChunk</find>
-      <find>chunk_key</find>
-      <find>sendalert</find>
-      <find>onacce</find>
-      <find>meta_regex_key</find>
       <find>meta_tree_key</find>
       <find>onaccessdict</find>
       <find>_should_run_profiling</find>
@@ -31,6 +26,11 @@
       <find>get_ui_class</find>
       <find>ui_class</find>
       <find>bridge</find>
+      <find>chunk</find>
+      <find>as_id</find>
+      <find>walk</find>
+      <find>root</find>
+      <find>as_ident</find>
     </findStrings>
     <replaceStrings>
       <replace>META_REGEX_KEY</replace>
