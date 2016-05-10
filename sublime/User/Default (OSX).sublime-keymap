@@ -21,8 +21,10 @@
     // { "keys": ["super+alt+e"], "command": "reveal_in_side_bar"},
     { "keys": ["super+1"], "command": "open_sublime_explorer"},
 
-    // Reveal in finder: TODO: I have no idea why this shortcuts does not work
-    { "keys": ["super+3"], "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"}},
+    // Reveal in finder:
+    // Note: because I have back mapped super to qwerty, I should use the
+    // superficial key binding
+    { "keys": ["super+control+e"], "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"}},
 
 
     { "keys": ["super+w"], "command": "close" },

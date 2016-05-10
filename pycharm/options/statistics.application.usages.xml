@@ -45,6 +45,9 @@
     <group name="py-packages">
       <project id="meta" values="pytest,requests,click,slacker,pytz,simplejson" collectionTime="1461679978209" />
     </group>
+    <group name="py-packages">
+      <project id="meta" values="cssselect,pytest,simplejson,requests,lxml,click,slacker,pytz" collectionTime="1462626290670" />
+    </group>
     <group name="jdbc-driver">
       <project id="netbox" values="org.postgresql.Driver" collectionTime="1462690177660" />
     </group>
@@ -64,6 +67,9 @@
       <project id="DNS" values="config.warn.about.crlf.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.ssh.enabled" collectionTime="1460935331178" />
       <project id="meta" values="config.cherry-pick.autocommit.disabled,data.remotes.in.project.0,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,data.local.branches.count.1,config.warn.about.detached.enabled,config.save.policy.STASH,data.remote.branches.count.0,config.ssh.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled" collectionTime="1461679978209" />
       <project id="netbox" values="config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.ssh.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled" collectionTime="1462690177580" />
+    </group>
+    <group name="Git">
+      <project id="meta" values="config.update.type.BRANCH_DEFAULT,config.force.push.enabled,data.local.branches.count.1,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.push.update.all.roots.enabled,data.remotes.in.project.0,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.ssh.enabled,data.remote.branches.count.0,config.push.autoupdate.disabled" collectionTime="1462626290679" />
     </group>
   </component>
   <component name="UsageTrigger">
