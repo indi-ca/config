@@ -24,6 +24,17 @@
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1280.800" x="104" y="70" />
     <location key="RollbackChangesDialog.1920.0.1920.1200" x="2667" y="334" />
     <location key="WELCOME_SCREEN.1920.0.1920.1200" x="959" y="230" />
+    <location key="com.intellij.ide.util.TipDialog.1440.-1608.1440.2560" x="1878" y="-502" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.1440.-1608.1440.2560" x="1624" y="-667" />
+    <location key="WELCOME_SCREEN.0.0.1440.900" x="719" y="230" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1440.900" x="438" y="276" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1440.900" x="184" y="120" />
+    <location key="SettingsEditor.1440.-1608.1440.2560" x="1641" y="-666" />
+    <location key="FileChooserDialogImpl.1440.-1608.1440.2560" x="1948" y="-567" />
+    <location key="#xdebugger.evaluate.1440.-1608.1440.2560" x="1815" y="-681" />
+    <location key="#Inspections.1440.-1660.1440.2560" x="1800" y="-703" />
+    <location key="#xdebugger.evaluate.1440.-1660.1440.2560" x="1897" y="-641" />
+    <location key="WELCOME_SCREEN.1440.-1660.1440.2560" x="719" y="230" />
     <size key="GridCell.Tab.0.left.1920.0.1920.1200" width="660" height="1133" />
     <size key="GridCell.Tab.0.center.1920.0.1920.1200" width="660" height="1133" />
     <size key="GridCell.Tab.0.right.1920.0.1920.1200" width="660" height="1133" />
@@ -45,5 +56,22 @@
     <size key="XDebugger.FullValuePopup.0.0.1280.800" width="640" height="386" />
     <size key="#xdebugger.evaluate.0.0.1280.800" width="827" height="565" />
     <size key="DebuggerActiveHint.0.0.1280.800" width="625" height="401" />
+    <size key="GridCell.Tab.0.left.1440.-1608.1440.2560" width="1398" height="905" />
+    <size key="GridCell.Tab.0.center.1440.-1608.1440.2560" width="1398" height="905" />
+    <size key="GridCell.Tab.0.right.1440.-1608.1440.2560" width="1398" height="905" />
+    <size key="GridCell.Tab.0.bottom.1440.-1608.1440.2560" width="1398" height="905" />
+    <size key="GridCell.Tab.1.left.1440.-1608.1440.2560" width="1398" height="905" />
+    <size key="GridCell.Tab.1.center.1440.-1608.1440.2560" width="1398" height="905" />
+    <size key="GridCell.Tab.1.right.1440.-1608.1440.2560" width="1398" height="905" />
+    <size key="GridCell.Tab.1.bottom.1440.-1608.1440.2560" width="1398" height="905" />
+    <size key="#xdebugger.evaluate.1440.-1608.1440.2560" width="692" height="814" />
+    <size key="GridCell.Tab.0.left.1440.-1660.1440.2560" width="1398" height="378" />
+    <size key="GridCell.Tab.0.center.1440.-1660.1440.2560" width="1398" height="378" />
+    <size key="GridCell.Tab.0.right.1440.-1660.1440.2560" width="1398" height="378" />
+    <size key="GridCell.Tab.0.bottom.1440.-1660.1440.2560" width="1398" height="378" />
+    <size key="GridCell.Tab.1.left.1440.-1660.1440.2560" width="1398" height="378" />
+    <size key="GridCell.Tab.1.center.1440.-1660.1440.2560" width="1398" height="378" />
+    <size key="GridCell.Tab.1.right.1440.-1660.1440.2560" width="1398" height="378" />
+    <size key="GridCell.Tab.1.bottom.1440.-1660.1440.2560" width="1398" height="378" />
   </component>
 </application>

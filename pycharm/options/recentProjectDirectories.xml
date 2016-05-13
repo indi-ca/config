@@ -13,14 +13,14 @@
     </option>
     <option name="openPaths">
       <list>
+        <option value="$USER_HOME$/dev/box/safechat" />
         <option value="$USER_HOME$/Dropbox/Projects/meta" />
       </list>
     </option>
     <option name="names">
       <map>
         <entry key="$USER_HOME$/PycharmProjects/DNS" value="DNS, internal..." />
-        <entry key="$USER_HOME$/dev/box/netbox" value="netbox, sandbox" />
-        <entry key="$USER_HOME$/dev/box/safechat" value="safechat, meta..." />
+        <entry key="$USER_HOME$/dev/box/safechat" value="cloud, nbcache..." />
         <entry key="$USER_HOME$/dev/box/safechat_nb" value="cloud, safechat_default..." />
       </map>
     </option>
@@ -55,7 +55,7 @@
               <option name="build" value="PY-145.844" />
               <option name="productionCode" value="PY" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1462340795401" />
+              <option name="projectOpenTimestamp" value="1462864513227" />
               <option name="buildTimestamp" value="1460037600000" />
             </RecentProjectMetaInfo>
           </value>
@@ -66,7 +66,7 @@
               <option name="build" value="PY-145.844" />
               <option name="productionCode" value="PY" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1461679978217" />
+              <option name="projectOpenTimestamp" value="1462690177662" />
               <option name="buildTimestamp" value="1460037600000" />
             </RecentProjectMetaInfo>
           </value>

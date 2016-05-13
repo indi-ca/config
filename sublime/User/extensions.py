@@ -37,7 +37,7 @@ class MyChainedActionsCommand(sublime_plugin.WindowCommand):
         self.window.run_command("open_file",
                                 {"file": "${packages}/User/extensions.py"})
         self.window.run_command("open_file",
-                                {"file": "${packages}/SublimePushBullet/SublimePushBullet.py"})
+                                {"file": "${packages}/User/Preferences.sublime-settings"})
 
 
 class OpenSublimeExplorerCommand(sublime_plugin.WindowCommand):

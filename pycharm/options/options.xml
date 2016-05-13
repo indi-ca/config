@@ -9,12 +9,12 @@
     <property name="installation.uid" value="6fd20139-ee19-4d2a-8b4e-e421a78a3445" />
     <property name="fileTypeChangedCounter" value="7" />
     <property name="PyCharm.initialConfigurationShown" value="true" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/Dropbox/Projects/meta/language/duolingo/words.py&#10;/Users/indika/dev/box/netbox/nbcache/src/nbcache&#10;/Users/indika/Dropbox/Projects/meta&#10;/Users/indika/.virtualenvs/meta/bin/python&#10;/opt/python/2.7.8/bin/python&#10;/Users/indika/dev/meta&#10;/Users/indika/dev/box/safechat/nbwebscan/init.d&#10;/Users/indika/dev/box/netbox/nbcache&#10;/Users/indika/dev/box/safechat&#10;/Users/indika/dev/box/safechat_nb&#10;/Users/indika/dev/box/internal&#10;/Users/indika/dev/box/netbox&#10;/Users/indika/settings-keymap.jar" />
+    <property name="file.chooser.recent.files" value="/opt/boxen/repo/ansible&#10;/Users/indika/Dropbox/Projects/meta/language/duolingo/words.py&#10;/Users/indika/dev/box/netbox/nbcache/src/nbcache&#10;/Users/indika/Dropbox/Projects/meta&#10;/Users/indika/.virtualenvs/meta/bin/python&#10;/opt/python/2.7.8/bin/python&#10;/Users/indika/dev/meta&#10;/Users/indika/dev/box/safechat/nbwebscan/init.d&#10;/Users/indika/dev/box/netbox/nbcache&#10;/Users/indika/dev/box/safechat&#10;/Users/indika/dev/box/safechat_nb&#10;/Users/indika/dev/box/internal&#10;/Users/indika/dev/box/netbox&#10;/Users/indika/settings-keymap.jar" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
-    <property name="lastTip" value="13" />
+    <property name="lastTip" value="15" />
     <property name="evlsprt3.6" value="16" />
-    <property name="OpenOrAttachDialog.OpenMode" value="attach" />
+    <property name="OpenOrAttachDialog.OpenMode" value="new" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
     <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
@@ -27,5 +27,7 @@
     <property name="sm_test_statistics_table_columnsWidth2" value="75" />
     <property name="sm_test_statistics_table_columnsOrder2" value="2" />
     <property name="com.intellij.history.integration.ui.views.SelectionHistoryDialog.0" value="300" />
+    <property name="evlsprt.6" value="154d2219ae4" />
+    <property name="evlsprt2.6" value="15484decd9e" />
   </component>
 </application>
